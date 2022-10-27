@@ -13,4 +13,6 @@ header:
 
 Cast your vote for when IslandoraCon 2023 should be held [here](https://forms.gle/g1NvqWcQKzqBeYp16)!
 
+IslandoraCon 2023 is anticipated to take place in Toronto, hosted by University of Toronto Scarborough.
 
+You can see information on our previous conference IslandoraCon 2022, at the [archived conference website](https://2022.islandora.ca/).
