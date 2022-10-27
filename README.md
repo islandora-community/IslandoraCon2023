@@ -1,3 +1,3 @@
 # IslandoraCon2023
 
-This is a test.
+The Islandora conference website, currently available at https://2023.islandora.ca.

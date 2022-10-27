@@ -4,8 +4,6 @@ title: "Welcome!"
 header:
   overlay_image: "/assets/images/Toronto_Skyline.png"
   overlay_filter: 0.25
-  actions:
-    - label: "IslandoraCon 2023"
   caption: "By Christine Wagner (Flickr)FlickreviewR 2 - This file has been extracted from another file, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70522343"
 
 ---
