@@ -1,0 +1,7 @@
+# main links
+main:
+  - title: "Previous Conferences"
+    children: 
+      - title: "IslandoraCon 2022"
+        url: https://2022.islandora.ca/
+
