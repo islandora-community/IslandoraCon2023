@@ -7,3 +7,5 @@ header:
   caption: "Whpq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
+
+On this page learn more about accomodations and travel to Toronto and staying near the conference. 
