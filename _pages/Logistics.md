@@ -8,4 +8,4 @@ header:
 
 ---
 
-On this page learn more about accomodations and travel to Toronto and staying near the conference. 
+On this page learn more about accomodations and travel to Toronto and to UTSC.
