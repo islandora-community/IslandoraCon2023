@@ -8,4 +8,4 @@ header:
 
 ---
 
-On this page learn more about accomodations and travel to Toronto and to UTSC.
+On this page learn more about accomodations and travel to Toronto and to the University of Toronto Scarborough.
