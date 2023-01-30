@@ -1,4 +1,5 @@
 ---
+permalink: /logistics/
 layout: splash
 title: "Welcome!"
 header:
