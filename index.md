@@ -23,12 +23,12 @@ Additional information is being posted to this site on a continual basis.
 
 ### Conference Committee
 
-Amy Blau (Whitman College)
-Angelina (Lina) Crowe (Carnegie Mellon University Libraries)
-Eric Luhrs (Lehigh University)
-Kirsta Stapelfeldt (UTSC Library)
-Marcus Barnes 
-Rebecca Power (Islandora Foundation Intern)
+* Amy Blau (Whitman College)
+* Angelina (Lina) Crowe (Carnegie Mellon University Libraries)
+* Eric Luhrs (Lehigh University)
+* Kirsta Stapelfeldt (UTSC Library)
+* Marcus Barnes 
+* Rebecca Power (Islandora Foundation Intern)
 
 
 You can see information on our previous conference IslandoraCon 2022, at the [archived conference website](https://2022.islandora.ca/).
