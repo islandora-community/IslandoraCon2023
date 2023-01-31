@@ -12,7 +12,7 @@ header:
 
 
 <p>
-Note: All times listed below are Eastern, and sessions are provisional. 
+Note: All times listed below are Eastern, and sessions are provisional.
 </p>
 <h2>Schedule</h2>
 
