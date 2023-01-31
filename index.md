@@ -17,5 +17,18 @@ Additional information is being posted to this site on a continual basis.
 ### Key Dates
 
 * March 20, 2023 - Early Bird registration & CfP opens
+* May 01 - CfP closes
+* May 22 - Successful speakers will have been notified, and conference program complete
+* May 29 - Regular registration begins
+
+### Conference Committee
+
+Amy Blau (Whitman College)
+Angelina (Lina) Crowe (Carnegie Mellon University Libraries)
+Eric Luhrs (Lehigh University)
+Kirsta Stapelfeldt (UTSC Library)
+Marcus Barnes 
+Rebecca Power (Islandora Foundation Intern)
+
 
 You can see information on our previous conference IslandoraCon 2022, at the [archived conference website](https://2022.islandora.ca/).
