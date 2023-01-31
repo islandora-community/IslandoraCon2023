@@ -26,8 +26,8 @@ Additional information is being posted to this site on a continual basis.
 * Amy Blau (Whitman College)
 * Angelina (Lina) Crowe (Carnegie Mellon University Libraries)
 * Eric Luhrs (Lehigh University)
-* Kirsta Stapelfeldt (UTSC Library)
-* Marcus Barnes 
+* Kirsta Stapelfeldt (University of Toronto Scarborough Library)
+* Marcus Barnes (University of Toronto) 
 * Rebecca Power (Islandora Foundation Intern)
 
 
