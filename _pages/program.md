@@ -8,13 +8,14 @@ header:
   caption: "Whpq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
-View the preliminary program
-## Conference Program
+<h2>Conference Program</h2>
 
+
+<p>
 Note: All times listed below are Eastern, and sessions are provisional. 
+</p>
+<h2>Schedule</h2>
 
-
-## Schedule
 
 
 <table>
@@ -33,8 +34,9 @@ Note: All times listed below are Eastern, and sessions are provisional.
 </table>
 
 
+<p>
    
-
+</p>
 
 <table>
   <tr>
@@ -117,9 +119,9 @@ Introductions & Icebreakers
 
 <table>
   <tr>
-   <td>Time
+   <td><strong>Time</strong>
    </td>
-   <td>Wednesday, July 26
+   <td><strong>Wednesday, July 26</strong>
    </td>
   </tr>
   <tr>
