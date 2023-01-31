@@ -33,55 +33,11 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 #### Hotels
 
 
-<table>
-  <tr>
-   <td>Hotel
-   </td>
-   <td>Rates
-   </td>
-   <td>Location and Directions
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://www.reservations.com/hotel/comfort-inn-pickering-on?rmcid=dsa&utm_source=googleads&gclid=CjwKCAiAoL6eBhA3EiwAXDom5n9sCxFV2S00hIxgV6YwXTEnK2DUaom1Rs9hC_HVU633wpqCDVXtkxoC0TQQAvD_BwE">Comfort Inn Pickering</a>
-   <p>1 (844) 684-9427
-    
-   <td>Starting at $116/night*
-   </td>
-   <td><a href="https://goo.gl/maps/bhCJRNYSiqH95L6S9">533 Kingston Road</a>
-<p>
-<a href="https://goo.gl/maps/1HKmVV46Jr3evSkL7">Directions to UTSC</a>
-<p>
-Approximately 15 minutes by car and 20 minutes by bus
-   
-  <tr>
-   <td><a href="https://www.bestwestern.com/en_US/book/hotel-rooms.66088.html?iata=00171890&ssob=BLBWI0003G&cid=BLBWI0003G:yext:website:66088">Best WesternPlus Executive Inn</a>
-<p>
-1 (800) 780-7234
-   
-   <td>Starting at $189.74/night*
-   </td>
-   <td><a href="https://goo.gl/maps/LkieqDZK4NWXKeRDA">38 Estate Drive</a>
-<p>
-<a href="https://goo.gl/maps/KurPSSgDFfkvMYcb6">Directions to UTSC</a>
-<p>
-Approximately 10 minutes by car and 25 minutes by bus
-   
-  <tr>
-   <td><a href="https://www.wyndhamhotels.com/en-ca/travelodge">Travelodge</a>
-<p>
-1 (800) 578-7878
-   
-   <td>Starting at $129/night*
-   </td>
-   <td><a href="https://goo.gl/maps/7dBthKkwdAEyU7Bw6">20 Milner Business Court</a>
-<p>
-<a href="https://goo.gl/maps/ux9svXPmx7zUsxcx6">Directions to UTSC</a>
-<p>
-Approximately 10 minutes by car and 30 minutes by bus
-   
-</table>
-
+| Hotels | Rates | Location and Directions |
+|---|---|---|
+| [Comfort Inn Pickering](https://www.reservations.com/hotel/comfort-inn-pickering-on?rmcid=dsa&utm_source=googleads&gclid=CjwKCAiAoL6eBhA3EiwAXDom5n9sCxFV2S00hIxgV6YwXTEnK2DUaom1Rs9hC_HVU633wpqCDVXtkxoC0TQQAvD_BwE) <br> 1 (844) 684-9427 | Starting at $116/night* | [533 Kingston Road](https://goo.gl/maps/bhCJRNYSiqH95L6S9) <br> [Directions to UTSC](https://goo.gl/maps/1HKmVV46Jr3evSkL7) <br> Approximately 15 minutes by car and 20 minutes by bus |
+| [Best WesternPlus Executive Inn](https://www.bestwestern.com/en_US/book/hotel-rooms.66088.html?iata=00171890&ssob=BLBWI0003G&cid=BLBWI0003G:yext:website:66088) <br> 1 (800) 780-7234 | Starting at $189.74/night* | [38 Estate Drive](https://goo.gl/maps/LkieqDZK4NWXKeRDA) <br> [Directions to UTSC](https://goo.gl/maps/KurPSSgDFfkvMYcb6) <br> Approximately 10 minutes by car and 25 minutes by bus |
+| [Travelodge](https://www.wyndhamhotels.com/en-ca/travelodge) <br> 1 (800) 578-7878 | Starting at $129/night* | [20 Milner Business Court](https://goo.gl/maps/7dBthKkwdAEyU7Bw6) <br> [Directions to UTSC](https://goo.gl/maps/ux9svXPmx7zUsxcx6) <br> Approximately 10 minutes by car and 30 minutes by bus |
 
 *Please note that hotel prices are subject to change and these are estimates
 
