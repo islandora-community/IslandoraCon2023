@@ -8,14 +8,15 @@ header:
   caption: "Whpq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
-<h2>Conference Program</h2>
+## Conference Program
+
+Note: All times listed below are Eastern, and sessions are provisional. 
 
 
-<p>
-Note: All times listed below are Eastern, and sessions are provisional.
-</p>
-<h2>Schedule</h2>
+## Schedule
 
+
+<table>
   <tr>
    <td><strong>Time</strong>
    </td>
@@ -31,9 +32,8 @@ Note: All times listed below are Eastern, and sessions are provisional.
 </table>
 
 
-<p>
    
-</p>
+
 
 <table>
   <tr>
@@ -299,5 +299,5 @@ Introductions & Icebreakers
    <td>Community meetings 
    </td>
   </tr>
-
+</table>
 
