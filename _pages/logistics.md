@@ -13,7 +13,7 @@ On this page learn more about accomodations and travel to Toronto and to the Uni
 ## Accommodations, Getting Here, and Getting Around
 
 The University of Toronto Scarborough is located at [1265 Military Trail, Toronto, Ontario](https://goo.gl/maps/EpzbEp3CPgyy6kxK9).
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.509810820747!2d-79.1873806!3d43.7830333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4da6fb7abd57f%3A0xbb656e0169887bac!2sUniversity%20of%20Toronto%20Scarborough!5e0!3m2!1sen!2sca!4v1675196106252!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.509810820747!2d-79.1873806!3d43.7830333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4da6fb7abd57f%3A0xbb656e0169887bac!2sUniversity%20of%20Toronto%20Scarborough!5e0!3m2!1sen!2sca!4v1675196106252!5m2!1sen!2sca" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ### Accommodations
