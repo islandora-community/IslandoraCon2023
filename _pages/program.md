@@ -16,9 +16,6 @@ Note: All times listed below are Eastern, and sessions are provisional.
 </p>
 <h2>Schedule</h2>
 
-
-
-<table>
   <tr>
    <td><strong>Time</strong>
    </td>
@@ -302,5 +299,5 @@ Introductions & Icebreakers
    <td>Community meetings 
    </td>
   </tr>
-</table>
+
 
