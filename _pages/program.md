@@ -51,9 +51,7 @@ Note: All times listed below are Eastern, and sessions are provisional. There wi
   <tr>
    <td>9:30
    </td>
-   <td>Welcome Address
-<p>
-Introductions & Icebreakers
+   <td>Welcome Address - Introductions & Icebreakers
    </td>
   </tr>
   <tr>
@@ -299,5 +297,5 @@ Introductions & Icebreakers
    <td>Community meetings 
    </td>
   </tr>
-</table>
+
 
