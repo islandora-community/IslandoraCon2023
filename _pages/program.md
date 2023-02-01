@@ -10,7 +10,7 @@ header:
 ---
 ## Conference Program
 
-Note: All times listed below are Eastern, and sessions are provisional. 
+Note: All times listed below are Eastern, and sessions are provisional. There will be two program sessions, curated to more and less technical audiences. 
 
 
 ## Schedule
