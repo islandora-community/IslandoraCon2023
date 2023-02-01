@@ -78,11 +78,6 @@ Airport Services from Billy Bishop
 ### Getting Around
 
 
-#### Bus Transport to and from Conference Dinner on July 27
-
-Bus transportation will be provided to and from the Conference Dinner on July 27.
-
-
 #### Taxis
 
 
