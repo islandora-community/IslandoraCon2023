@@ -1,5 +1,5 @@
 ---
-permalink: /logistics/
+permalink: /travelaccommodations/
 layout: splash
 title: "Welcome!"
 header:
