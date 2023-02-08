@@ -20,13 +20,13 @@ Whether you prefer exploring [In Nature](#In-Nature) or [Indoors](#Indoors), the
 
 ### In Nature
 
-#### Scarborough Bluffs
+##### Scarborough Bluffs
 The [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/) are a collection of 11 parks across 15km and include amazing views of the bluffs and Lake Ontario, and offer beaches, gardens, trails, and much more to experience. 
 
-#### Toronto Zoo
+##### Toronto Zoo
 The [Toronto Zoo](https://www.torontozoo.com/) is right around the corner--only a 10 minute drive from UTSC (30 minutes by bus). Pop in the view incredible animals and learn about their conservation efforts.
 
-#### Rouge National Urban Park
+##### Rouge National Urban Park
 The [Rouge National Urban Park](https://parks.canada.ca/pn-np/on/rouge) is the largest urban park in North America. With free guided walks and a variety of trails, there's something for everyone.
 
 ### Indoors
