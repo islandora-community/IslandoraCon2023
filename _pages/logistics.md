@@ -24,7 +24,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 * [Getting Here](#GettingHere) - Services available to get you to Scarborough.
 * [Getting Around](#GettingAround) - Services available to travel around Scarborough. 
 
-### Accommodations
+### <a name="Accommodations"/> Accommodations
 
 
 #### On Campus
