@@ -16,17 +16,25 @@ header:
 
 Scarborough has many beautiful parks and places to explore! Check out [Destination Toronto](https://www.destinationtoronto.com/neighbourhoods/scarborough/), [Visit Scarborough](https://www.visitscarborough.com/), and our recommendations below to create your own adventure!
 
-Whether you prefer exploring [In Nature](#In-Nature) or [Indoors](#Indoors), there's lots to explore and do!
+Whether you prefer exploring [In Nature](#In-Nature) or [Indoors](#Indoors), there's lots to explore and do! And if your hungry, you're in luck! Scarborough has lots of [Restaurants](#Restaurants) to try!
 
-### In Nature
+### <a name="In-Nature"/> In Nature
 
-##### Scarborough Bluffs
-The [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/) are a collection of 11 parks across 15km and include amazing views of the bluffs and Lake Ontario, and offer beaches, gardens, trails, and much more to experience. 
+Scarborough Bluffs
+* The [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/) are a collection of 11 parks across 15km and include amazing views of the bluffs and Lake Ontario, and offer beaches, gardens, trails, and much more to experience. 
 
-##### Toronto Zoo
-The [Toronto Zoo](https://www.torontozoo.com/) is right around the corner--only a 10 minute drive from UTSC (30 minutes by bus). Pop in the view incredible animals and learn about their conservation efforts.
+Toronto Zoo
+* The [Toronto Zoo](https://www.torontozoo.com/) is right around the corner--only a 10 minute drive from UTSC (30 minutes by bus). Pop in the view incredible animals and learn about their conservation efforts.
 
-##### Rouge National Urban Park
-The [Rouge National Urban Park](https://parks.canada.ca/pn-np/on/rouge) is the largest urban park in North America. With free guided walks and a variety of trails, there's something for everyone.
+Rouge National Urban Park
+* The [Rouge National Urban Park](https://parks.canada.ca/pn-np/on/rouge) is the largest urban park in North America. With free guided walks and a variety of trails, there's something for everyone.
 
-### Indoors
+### <a name="Indoors"/> Indoors
+
+Scarborough Museum
+* The [Scarborough Museum](https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/) is a vibrant community you can explore to learn about its history.
+
+Ontario Science Centre
+* The [Ontario Science Centre](https://www.ontariosciencecentre.ca/) is filled with activities and exhibits to satiate your curiosity.
+
+## <a name="Restaurants"/> Restaurants 
