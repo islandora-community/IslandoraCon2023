@@ -50,7 +50,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 
 [back to top](#top)
 
-### Getting Here 
+### <a name="Getting-Here"/> Getting Here 
 
 Airport Services from Pearson
 
@@ -75,7 +75,7 @@ Airport Services from Billy Bishop
 
 [back to top](#top)
 
-### Getting Around
+### <a name="Getting-Around"/> Getting Around
 
 
 #### Taxis
