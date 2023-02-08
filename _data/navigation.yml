@@ -2,7 +2,9 @@
 main:
   - title: "2022"
     url: https://2022.islandora.ca/
-  - title: "Logistics"
-    url: https://2023.islandora.ca/logistics/
+  - title: "Travel & Accommodations"
+    url: https://2023.islandora.ca/TravelAccommodations/
+  - title: "Outings & Sightseeing"
+    url: https://2023.islandora.ca/outings/
   - title: "Program"
     url: https://2023.islandora.ca/program/
