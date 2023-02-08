@@ -18,7 +18,7 @@ Scarborough has many beautiful parks and places to explore! Check out [Destinati
 
 Whether you prefer exploring [In Nature](#In-Nature) or [Indoors](#Indoors), there's lots to explore and do!
 
-###In Nature
+### In Nature
 
 #### Scarborough Bluffs
 The [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/) are a collection of 11 parks across 15km and include amazing views of the bluffs and Lake Ontario, and offer beaches, gardens, trails, and much more to experience. 
