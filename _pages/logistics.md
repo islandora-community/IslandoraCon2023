@@ -12,7 +12,7 @@ actions:
 
 ---
 
-## Accommodations, Getting Here, and Getting Around
+## <a name="top"/> Accommodations, Getting Here, and Getting Around
 
 The University of Toronto Scarborough is located at [1265 Military Trail, Toronto, Ontario](https://goo.gl/maps/EpzbEp3CPgyy6kxK9).
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.509810820747!2d-79.1873806!3d43.7830333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4da6fb7abd57f%3A0xbb656e0169887bac!2sUniversity%20of%20Toronto%20Scarborough!5e0!3m2!1sen!2sca!4v1675196106252!5m2!1sen!2sca" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -48,6 +48,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 
 *Please note that hotel prices are subject to change and these are estimates
 
+[back to top](#top)
 
 ### Getting Here 
 
@@ -72,6 +73,7 @@ Airport Services from Billy Bishop
 
 * If arriving by train, there is a [ViaRail station in Scarborough](https://www.viarail.ca/en/explore-our-destinations/stations/ontario/guildwood) that is [approximately a 10 minute drive or 15 minute bus trip to UTSC](https://goo.gl/maps/tgEmwkiK8ce3WDmN7). 
 
+[back to top](#top)
 
 ### Getting Around
 
@@ -90,3 +92,5 @@ Airport Services from Billy Bishop
 #### Driving
 
 Parking is available on campus, which can be viewed [here](https://www.utsc.utoronto.ca/home/parking-utsc).
+
+[back to top](#top)
