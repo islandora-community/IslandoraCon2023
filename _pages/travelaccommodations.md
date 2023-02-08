@@ -78,19 +78,17 @@ Airport Services from Billy Bishop
 ### <a name="Getting-Around"/> Getting Around
 
 
-#### Taxis
+Taxis
 
 
-#### Public Transportation
-
-
+Public Transportation
 
 * Buses: plan your trip on [Google](https://www.google.com/maps/dir/University+of+Toronto+Scarborough,+1265+Military+Trail,+Scarborough,+ON+M1C+1A4/Union,+55+Front+St+W,+Toronto,+ON+M5J+1E6/@43.7827635,-79.2016937,14.75z/data=!4m14!4m13!1m5!1m1!1s0x89d4da6fb7abd57f:0xbb656e0169887bac!2m2!1d-79.1873806!2d43.7830333!1m5!1m1!1s0x882b34d334933a71:0x63d8a0ae303a1e65!2m2!1d-79.3806321!2d43.6452417!3e3) and [TTC](https://www.ttc.ca/routes-and-schedules#/).
 * GoTransit: plan your trip on [GO Transit](https://www.gotransit.com/en/trip-planning/plan-your-trip) 
 
 
-#### Driving
+Driving
 
-Parking is available on campus, which can be viewed [here](https://www.utsc.utoronto.ca/home/parking-utsc).
+* Parking is available on campus, which can be viewed [here](https://www.utsc.utoronto.ca/home/parking-utsc).
 
 [back to top](#top)
