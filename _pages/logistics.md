@@ -12,7 +12,6 @@ actions:
 
 ---
 
-
 ## <a name="top"/> Accommodations, Getting Here, and Getting Around
 
 The University of Toronto Scarborough is located at [1265 Military Trail, Toronto, Ontario](https://goo.gl/maps/EpzbEp3CPgyy6kxK9).
@@ -21,8 +20,8 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 ### On this page you can find the following information: 
 
 * [Accommodations](#Accommodations) - Our recommended accommodations near UTSC.
-* [Getting Here](#GettingHere) - Services available to get you to Scarborough.
-* [Getting Around](#GettingAround) - Services available to travel around Scarborough. 
+* [Getting Here](#Getting-Here) - Services available to get you to Scarborough.
+* [Getting Around](#Getting-Around) - Services available to travel around Scarborough. 
 
 ### <a name="Accommodations"/> Accommodations
 
@@ -51,7 +50,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 
 [Back to top](#top)
 
-### <a name="GettingHere"/> Getting Here 
+### Getting Here 
 
 Airport Services from Pearson
 
@@ -84,7 +83,7 @@ Airport Services from Billy Bishop
 
 [Back to top](#top)
 
-### <a name="GettingAround"/> Getting Around
+### Getting Around
 
 
 #### Taxis
