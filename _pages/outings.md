@@ -38,3 +38,4 @@ Ontario Science Centre
 * The [Ontario Science Centre](https://www.ontariosciencecentre.ca/) is filled with activities and exhibits to satiate your curiosity.
 
 ## <a name="Restaurants"/> Restaurants 
+As a part of the Greater Toronto Area, you can expect to find plenty of delicious and unique food options! To get started satifying your cravings and expanding your palette, check out [NARCITY Toronto](https://www.narcity.com/toronto/the-best-restaurants-in-scarborough-that-local-foodies-are-completely-in-love-with) for what the locals love, [Toronto Life](https://torontolife.com/food/10-of-the-best-restaurants-in-scarborough-for-takeout-and-delivery/) for takeout and delivery options, [Taste Toronto](https://www.tastetoronto.com/guides/the-best-restaurants-in-scarborough) for a thorough list of the 50 best restaurants in Scarborough, and [Noms Magazine](https://nomsmagazine.com/best-scarborough-restaurants/) for a selective top 12 list. 
