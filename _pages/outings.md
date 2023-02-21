@@ -18,6 +18,8 @@ Scarborough has many beautiful parks and places to explore! Check out [Destinati
 
 Whether you prefer exploring [In Nature](#In-Nature) or [Indoors](#Indoors), there's lots to explore and do! And if your hungry, you're in luck! Scarborough has lots of [Restaurants](#Restaurants) to try!
 
+For information on how to get around Scarborough and Toronto, check out our [Travel & Accommodations page](https://2023.islandora.ca/travelaccommodations/#Getting-Around)!
+
 ### <a name="In-Nature"/> In Nature
 
 Scarborough Bluffs
