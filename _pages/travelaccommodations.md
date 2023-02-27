@@ -29,8 +29,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 
 [The University of Toronto Scarborough Townhouses](https://utsc.utoronto.ca/residences/townhouses#:~:text=There%20are%2013%20townhouse%20halls,site%20in%20a%20new%20window%20.)
 
-
-
+* **[Book here!](https://forms.office.com/r/vK7ttCRC8k)**
 * $70/night
 * Private bedroom (4 bedrooms per townhouse)
 * Shared living space, bathroom, and kitchen
@@ -38,7 +37,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 
 
 #### Hotels
-
+**Book with the Comfort Inn now to receive our group rate: [Book here!](https://www.choicehotels.com/reservations/groups/FS62Q3)**
 
 | Hotels | Rates | Location and Directions |
 |---|---|---|
