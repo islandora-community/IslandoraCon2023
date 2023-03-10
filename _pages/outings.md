@@ -50,3 +50,7 @@ As a part of the Greater Toronto Area, you can expect to find plenty of deliciou
 * B Boyz
 * Roti Hut
 * Mona's Roti
+
+### On Campus and Near Campus Options
+[Check out what's open across campus here](https://www.utsc.utoronto.ca/programs/utscfood/), or get a walk in by checking out nearby options:
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5760.7276674315635!2d-79.19048860506352!3d43.78606286647889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1srestaurants!5e0!3m2!1sen!2sca!4v1678476270269!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
