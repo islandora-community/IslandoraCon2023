@@ -13,7 +13,7 @@ header:
 ---
 
 ## Sponsorship Tiers
-If you would like to be a sponsor for this year's IslandoraCon, take a look at the tier levels below and email us as community@islandora.ca.
+If you would like to be a sponsor for this year's IslandoraCon, take a look at the tier levels below and email us as [community@islandora.ca](mailto:community@islandora.ca).
 
 ### PLATINUM Level Sponsor - $3,000
 Large logo on conference website homepage
