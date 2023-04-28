@@ -27,7 +27,7 @@ We welcome submissions that showcase your work with Islandora, presentations on 
 
 ### Key Dates
 
-* May 01 - CfP closes
+* May 08 - CfP closes
 * May 22 - Successful speakers will have been notified, and conference program complete
 * May 29 - Regular registration begins
 
