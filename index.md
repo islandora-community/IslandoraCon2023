@@ -42,4 +42,5 @@ We welcome submissions that showcase your work with Islandora, presentations on 
 
 
 You can see information on our previous conference IslandoraCon 2022, at the [archived conference website](https://2022.islandora.ca/).
+
 google-site-verification: googleeaa5f0242c851b4d.html
