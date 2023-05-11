@@ -22,6 +22,7 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 * [Accommodations](#Accommodations) - Our recommended accommodations near UTSC.
 * [Getting Here](#Getting-Here) - Services available to get you to Scarborough.
 * [Getting Around](#Getting-Around) - Services available to travel around Scarborough. 
+* [Campus Map](#Campus-Map) - Where the Conference and Townhouses are located
 
 ### <a name="Accommodations"/> Accommodations
 
@@ -89,5 +90,11 @@ Public Transportation
 Driving
 
 * Parking is available on campus, which can be viewed [here](https://www.utsc.utoronto.ca/home/parking-utsc).
+
+[back to top](#top)
+
+### <a name="Campus-Map"/> Campus Map
+The Catalyst Centre is located in the Environmental Science & Chemistry Building (labeled EV on the map), and the Townhouses are located in the South Residences. The easiest way to get between the Townhouses and EV Building is the Military Trail.
+![CampusMapDirections](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/44b21e79-f873-4f01-aef7-5421f8a0e956)
 
 [back to top](#top)
