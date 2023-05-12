@@ -38,3 +38,7 @@ If you would like to be a sponsor for this year's IslandoraCon, take a look at t
  
 ### Event Sponsorship
 Sponsorship is also available for Tuesday’s Cocktail Night, Wednesday’s Pizza Party, Thursday’s Conference Dinner, and coffee breaks. If this option is selected, prominent signage and an announcement at the event will showcase the sponsor. All sponsorships will be listed in the onsite program agenda next to the sponsored event. Additional details can be provided to those potential sponsors interested in this option.
+
+## Current Sponsors
+### PLATINUM Level Sponsor
+[![born-digital-logo](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/49186989-b90f-473e-aa97-cd6be0fc8d3c)](https://www.born-digital.com/)
