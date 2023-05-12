@@ -19,12 +19,6 @@ IslandoraCon 2023 will take place at the University of Toronto Scarborough July 
 
 All of our events follow our [code of conduct](https://www.islandora.ca/code-of-conduct).
 
-### Call for Proposals
-
-We welcome submissions that showcase your work with Islandora, presentations on both successes and failures, migration endeavours, and any other topics or discussions that may be of value to the Islandora Community! Submissions can range in length, from a short description of a lightning talk, to a proposal for a discussion panel, presentation, or workshop. The deadline for submissions to the Call for Proposals is May 8.
-
-[Submit your Proposal for IslandoraCon](https://docs.google.com/forms/d/e/1FAIpQLSdm5IV86RKUyQnUKr6C6btxiUzW3xkLSmaYBGnDjEh3BGAU9Q/viewform)
-
 ### Key Dates
 
 * May 08 - CfP closes
