@@ -85,6 +85,7 @@ Public Transportation
 
 * Buses: plan your trip on [Google](https://www.google.com/maps/dir/University+of+Toronto+Scarborough,+1265+Military+Trail,+Scarborough,+ON+M1C+1A4/Union,+55+Front+St+W,+Toronto,+ON+M5J+1E6/@43.7827635,-79.2016937,14.75z/data=!4m14!4m13!1m5!1m1!1s0x89d4da6fb7abd57f:0xbb656e0169887bac!2m2!1d-79.1873806!2d43.7830333!1m5!1m1!1s0x882b34d334933a71:0x63d8a0ae303a1e65!2m2!1d-79.3806321!2d43.6452417!3e3) and [TTC](https://www.ttc.ca/routes-and-schedules#/).
 * GoTransit: plan your trip on [GO Transit](https://www.gotransit.com/en/trip-planning/plan-your-trip) 
+* If you are travelling from the Comfort Inn to UTSC you can catch the 900 Scarborough bus across the street from the Comfort Inn. It will take you directly to UTSC where you can get off at Centennial Circle (right next to the Environmental Science & Chemistry Building)
 
 
 Driving
