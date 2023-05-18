@@ -22,7 +22,7 @@ All of our events follow our [code of conduct](https://www.islandora.ca/code-of-
 ### Key Dates
 
 * May 08 - CfP closes
-* May 22 - Successful speakers will have been notified, and conference program complete
+* May 24 - Successful speakers will have been notified, and conference program complete
 * May 29 - Regular registration begins
 
 ### Conference Committee
