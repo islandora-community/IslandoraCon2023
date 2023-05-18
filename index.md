@@ -23,7 +23,7 @@ All of our events follow our [code of conduct](https://www.islandora.ca/code-of-
 
 * May 08 - CfP closes
 * May 24 - Successful speakers will have been notified, and conference program complete
-* May 29 - Regular registration begins
+* June 01 - Regular registration begins
 
 ### Conference Committee
 
