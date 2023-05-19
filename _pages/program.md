@@ -35,7 +35,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 1:00         | Stream one:                                              |
 |              | Stream two:                                              |
 | 2:30         | Afternoon Break                                          |
-| 3:00         | Use-a-thon projects                                      |
+| 3:00         | Use-a-Thon projects                                      |
 | 4:00         | Service Provider Showcase                                |
 | 6:30 - 10:30 | In person event: Cocktail/mixer at Ralph Campbell Lounge |
 
@@ -52,7 +52,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 |       | Stream 2 - Lightning talks             |
 | 2:30  | Afternoon Break                        |
 | 3:00  | Interest group/community meetings      |
-| TBD   | Pizza party at the UTSC Library        |
+| TBD   | Pizza Party at the UTSC Library        |
 
 
 | Time  | Thursday, July 27                      |
@@ -71,7 +71,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time  | Friday, July 28                                                       |
 | ----- | --------------------------------------------------------------------- |
 | 8:30  | Registration Desk open & coffee/snacks                                |
-| 9:30  | Final Camp Day Roundup, Use-a-thon presentations & Concluding Address |
+| 9:30  | Final Camp Day Roundup, Use-a-Thon presentations & Concluding Address |
 | 12:00 | Lunch                                                                 |
 | 1:00  | Interest group and community meetings                                 |
 | 2:30  | Afternoon Break                                                       |
