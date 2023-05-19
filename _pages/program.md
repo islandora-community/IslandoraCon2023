@@ -35,7 +35,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 6:30-10:30 p.m. | Cocktail/Mixer at Ralph Campbell Lounge             |
 
 | Time            | Wednesday, July 26                                  |
-| —-------------- | --------------------------------------------------- |
+| --------------- | --------------------------------------------------- |
 | 8:30 a.m.       | Registration Desk open & coffee/snacks              |
 | 9:30 a.m.       | Welcome: Use-a-Thon projects                        |
 | 10:30 a.m.      | **Stream one:** <br> **Stream two:**                |
@@ -47,7 +47,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 5:30 p.m.       | Use-a-Thon Pizza Party at the UTSC Library          |
 
 | Time            | Thursday, July 27                                   |
-| —-------------- | --------------------------------------------------- |
+| --------------- | --------------------------------------------------- |
 | 8:30 a.m.       | Registration Desk open & coffee/snacks              |
 | 9:30 a.m.       | Welcome: Use-a-Thon projects                        |
 | 10:30 a.m.      | TBA                                                 |
@@ -60,7 +60,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 6:30-10:30 p.m. | Conference Dinner                                   |
 
 | Time            | Friday, July 28                                     |
-| —-------------- | --------------------------------------------------- |
+| --------------- | --------------------------------------------------- |
 | 8:30 a.m.       | Registration Desk open & coffee/snacks              |
 | 9:30 a.m.       | Final Day Roundup <br> Use-a-Thon presentations <br> Concluding Address |
 | 12:00 p.m.      | *Lunch*                                             |
