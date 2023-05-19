@@ -18,61 +18,52 @@ Note: All times listed below are Eastern, and sessions are provisional.
 
 ## Schedule
 
-| Time        | Monday, July 24        |
-| ----------- | ---------------------- |
-| 2:30 - 4:30 | Registration Desk open |
+| Time           | Monday, July 24                                      |
+| -------------- | ---------------------------------------------------- |
+| 2:30-4:30 p.m. | Registration Desk open                               |  
 
+| Time            | Tuesday, July 25                                    |
+| --------------- | --------------------------------------------------- |
+| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
+| 9:30 a.m.       | Welcome Address <br> Introductions & Icebreakers    |
+| 10:30 a.m.      | **Stream one:** <br> **Stream two:**                |
+| 12:00 p.m.      | *Lunch*                                             |
+| 1:00 p.m.       | **Stream one:** <br> **Stream two:**                |
+| 2:30 p.m.       | *Afternoon Break*                                   |
+| 3:00 p.m.       | TBA                                                 |
+| 4:00 p.m.       | **Stream one:** <br> **Stream two:**                |
+| 6:30-10:30 p.m. | Cocktail/Mixer at Ralph Campbell Lounge             |
 
-   
+| Time            | Wednesday, July 26                                  |
+| —-------------- | --------------------------------------------------- |
+| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
+| 9:30 a.m.       | Welcome: Use-a-Thon projects                        |
+| 10:30 a.m.      | **Stream one:** <br> **Stream two:**                |
+| 12:00 p.m.      | *Lunch*                                             |
+| 1:00 p.m.       | TBA                                                 |
+| 2:30 p.m.       | *Afternoon Break*                                   |
+| 3:00 p.m.       | Interest Group/Community Meetings                   |
+| 4:00 p.m.       | Service Provider Showcase                           |
+| 5:30 p.m.       | Use-a-Thon Pizza Party at the UTSC Library          |
 
-| Time         | Tuesday, July 25                                         |
-| ------------ | -------------------------------------------------------- |
-| 8:30         | Registration Desk open & coffee/snacks                   |
-| 9:30         | Welcome Address, Introductions & Icebreakers 
-| 10:30        | Stream one:                                              |
-|              | Stream two:                                              |
-| 12:00        | Lunch                                                    |
-| 1:00         | Stream one:                                              |
-|              | Stream two:                                              |
-| 2:30         | Afternoon Break                                          |
-| 3:00         | Use-a-Thon projects                                      |
-| 4:00         | Service Provider Showcase                                |
-| 6:30 - 10:30 | In person event: Cocktail/mixer at Ralph Campbell Lounge |
+| Time            | Thursday, July 27                                   |
+| —-------------- | --------------------------------------------------- |
+| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
+| 9:30 a.m.       | Welcome: Use-a-Thon projects                        |
+| 10:30 a.m.      | TBA                                                 |
+| 11:00 a.m.      | TBA                                                 |
+| 11:30 a.m.      | *Lunch*                                             |
+| 12:30 p.m.      | **Stream one:** <br> **Stream two:**                |
+| 1:30 p.m.       | TBA                                                 |
+| 2:30 p.m.       | *Afternoon Break*                                   |
+| 3:00 p.m.       | Service Provider Showcase                           |
+| 6:30-10:30 p.m. | Conference Dinner                                   |
 
-
-
-| Time  | Wednesday, July 26                     |
-| ----- | -------------------------------------- |
-| 8:30  | Registration Desk open & coffee/snacks |
-| 9:30  | Use-a-thon projects                    |
-| 10:30 | Stream one:                            |
-|       | Stream two                             |
-| 12:00 | Lunch                                  |
-| 1:00  | Stream 1                               |
-|       | Stream 2 - Lightning talks             |
-| 2:30  | Afternoon Break                        |
-| 3:00  | Interest group/community meetings      |
-| TBD   | Pizza Party at the UTSC Library        |
-
-
-| Time  | Thursday, July 27                      |
-| ----- | -------------------------------------- |
-| 8:30  | Registration Desk open & coffee/snacks |
-| 9:30  | Welcome                                |
-| 10:30 | Stream one:                            |
-|       | Stream two:                            |
-| 12:00 | Lunch                                  |
-| 1:00  | Stream 1                               |
-|       | Stream 2 - Lightning talks             |
-| 2:30  | Afternoon Break                        |
-| 3:00  |                                        |
-| TBD   | Conference Dinner                      |
-
-| Time  | Friday, July 28                                                       |
-| ----- | --------------------------------------------------------------------- |
-| 8:30  | Registration Desk open & coffee/snacks                                |
-| 9:30  | Final Camp Day Roundup, Use-a-Thon presentations & Concluding Address |
-| 12:00 | Lunch                                                                 |
-| 1:00  | Interest group and community meetings                                 |
-| 2:30  | Afternoon Break                                                       |
-| 3:00  | community meetings                                                    |
+| Time            | Friday, July 28                                     |
+| —-------------- | --------------------------------------------------- |
+| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
+| 9:30 a.m.       | Final Day Roundup <br> Use-a-Thon presentations <br> Concluding Address |
+| 12:00 p.m.      | *Lunch*                                             |
+| 1:00 p.m.       | Interest Group and Community Meetings               |
+| 2:30 p.m.       | *Afternoon Break*                                   |
+| 3:00 p.m.       | Community Meetings                                  |
