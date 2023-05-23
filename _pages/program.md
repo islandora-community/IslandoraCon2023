@@ -62,7 +62,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Friday, July 28                                     |
 | --------------- | --------------------------------------------------- |
 | 8:30 a.m.       | Registration Desk open & coffee/snacks              |
-| 9:30 a.m.       | Final Day Roundup <br> Use-a-Thon presentations <br> Concluding Address |
+| 9:30 a.m.       | Final Day Roundup <br> Use-a-Thon Presentations <br> Concluding Address |
 | 12:00 p.m.      | *Lunch*                                             |
 | 1:00 p.m.       | Interest Group and Community Meetings               |
 | 2:30 p.m.       | *Afternoon Break*                                   |
