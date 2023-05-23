@@ -73,6 +73,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 #### <a name="25-1-1"/> Introduction to Islandora (Starter Site)
 **
 New to Islandora and/or looking for a refresher? Attendees at this workshop will install and learn the basics of the Islandora Starter Site, including a high-level overview of Islandora’s basic architecture and feature set. Users are encouraged to complete basic tasks designed to support a mental model of Islandora.
+<br>
 **Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). 
 
 #### <a name="25-1-2"/> Developing in Islandora and Deploying to Production
@@ -86,6 +87,7 @@ Just getting started with Islandora? Attend a community onboarding session where
 #### <a name="25-2-2"/> Introduction to Islandora Workbench
 *Instructor: Mark Jordan*
 Islandora Workbench is a popular tool for managing content in an Islandora 2 repository. This hands-on workshop will allow participants to gain experience and confidence with Workbench, and to learn about how they can use it to maintain their repositories.
+<br>
 **Note:** Participants must have a laptop running either ISLE-DC or Islandora Playbook.
 
 #### <a name="Demos"/> Islandora Site and Feature Demos
