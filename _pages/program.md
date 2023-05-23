@@ -67,3 +67,75 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 1:00 p.m.       | Interest Group and Community Meetings               |
 | 2:30 p.m.       | *Afternoon Break*                                   |
 | 3:00 p.m.       | Community Meetings                                  |
+
+## Session Descriptions
+
+#### <a name="25-1-1"/> Introduction to Islandora (Starter Site)
+**
+New to Islandora and/or looking for a refresher? Attendees at this workshop will install and learn the basics of the Islandora Starter Site, including a high-level overview of Islandora’s basic architecture and feature set. Users are encouraged to complete basic tasks designed to support a mental model of Islandora.
+**Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). 
+
+#### <a name="25-1-2"/> Developing in Islandora and Deploying to Production
+**
+Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This site will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora. 
+
+#### <a name="25-2-1"/> Community Onboarding
+*Facilitators: Yamil Suárez & Rebecca Power*
+Just getting started with Islandora? Attend a community onboarding session where you can learn about the Foundation, governance model, and options for getting involved. See how Islandora uses Google Groups, GitHub and Slack to connect and collaborate. Users will learn about how the pieces of Islandora’s community come together, and be supported in joining and using Islandora’s communication channels. 
+
+#### <a name="25-2-2"/> Introduction to Islandora Workbench
+*Instructor: Mark Jordan*
+Islandora Workbench is a popular tool for managing content in an Islandora 2 repository. This hands-on workshop will allow participants to gain experience and confidence with Workbench, and to learn about how they can use it to maintain their repositories.
+**Note:** Participants must have a laptop running either ISLE-DC or Islandora Playbook.
+
+#### <a name="Demos"/> Islandora Site and Feature Demos
+*Moderator(s): Marcus Barnes/Eric Luhrs*
+
+#### <a name="25-3-1"/> Options for a smaller Islandora
+*Facilitator: Cary Gordon*
+I propose a breakout for public libraries, small institutions, vendors to the same, and their friends  to discuss current options. Since that landscape is changing as I type, I think that the agenda needs to be flexible, but anything in the realm of Islandora Lite or isle-site-template should be included.
+
+#### <a name="Use-a-Thon"/> Use-a-Thon Projects
+**What is a Use-a-Thon?**
+The Islandora Use-a-Thon is an opportunity to work with conference participants, learn new things, and configure Islandora to do something new! Even if you are new to Islandora, you are encouraged to join an existing Use-a-Thon in an area of interest to you. Use-a-Thons ideally pair people from different institutions with differing skill sets on a specific goal. 
+
+**How does it work?**
+The latest version of Islandora is tightly integrated with Drupal, and very flexible, so many use cases can be solved with a combination of configuration and Drupal contributed modules.
+
+**How do you participate?**
+1. Propose your idea!
+   1. Is there something you want to learn how to do? Something you’ve been eager to understand how to do? Propose your idea for the Use-a-Thon or sign up for an existing idea! 
+1. Meet with your team!
+   1. Use-a-Thon projects will be introduced Tuesday, July 25, from 4:00-5:00 p.m. Additional scheduled times are: 
+      1. **Wednesday, July 26** 9:30-10:30 a.m. & 5:30 p.m. (Use-a-Thon Pizza Party)
+      1. **Thursday, July 27** 9:30-10:30 a.m. & 12:30-1:30 p.m.
+1. On Friday morning, representatives from each group are asked to present their outcomes. 
+
+#### <a name="26-1-1"/> Islandora for Metadata Librarians
+*Presenter: Chris Day*
+This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022.
+
+#### <a name="26-1-2"/> Islandora Migrate
+*Presenter: Luke Taylor*
+discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will introduce the toolset and its core functionality, describe how it can be used in migration use cases. The developers will be available to answer questions from others planning migrations that might benefit from the use of this tool.
+
+#### <a name="26-2"/> Fedora Community Update
+*Presenter: Arran Griffith*
+This presentation will showcase all of the recent initiatives the Fedora community has engaged in since the release of Fedora 6.0 in July 2021. There has been a strong focus on growing the community through new engagement initiatives, community-driven feature development and creating innovative ways to involve more users in decision-making processes. We will discuss how we used the It Takes a Village framework to guide our efforts as well as share lessons learned along the way. Finally we will share all of the newest features and development work underway for Fedora 6.4.
+
+#### <a name="26-3"/> Revisiting the Islandora-Fedora Integration
+*Presenter: Seth Shaw*
+Recently, the question of Fedora's role in Islandora has been raised by newcomers to the community. This presentation will discuss Islandora's optional integration with Fedora as well as theoretical alternatives.
+
+#### <a name="27-1"/> Integrating Mirador and Islandora: Bringing everything we know together
+*Presenter: Alexander O’Neill*
+Several institutions have deployed Mirador with Islandora and made use of some of its various features. This presentation co-locates and reviews all of the knowledge required to integrate Mirador into Islandora and make full use of its plugins. This presentation reviews the steps from compiling and deploying the Mirador React app, to bringing it into Drupal, and its plugin architecture. Attendees will learn how to set up Solr and Islandora to power Mirador’s built-in search feature, bringing together multiple concurrent strands of community discussion and work. 
+
+#### <a name="27-2"/> Content Modeling for Derivatives using Islandora Paragraphs
+*Presenter: Luke Taylor*
+The use of Drupal Paragraphs has the potential to substantially streamline and normalize the way we handle media derivative production in Islandora. Listen to the pitch and weigh in on whether or not this use case works for you!
+
+#### <a name="27-3-1"/> Strategies for Digital Preservation in Islandora
+*Panel Presenters: Donald Moses, Mark Jordan, Kirsta Stapelfeldt*
+
+#### <a name="Showcase"/> Service Provider Showcases
