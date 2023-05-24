@@ -92,6 +92,18 @@ Islandora Workbench is a popular tool for managing content in an Islandora 2 rep
 
 #### <a name="Demos"/> Islandora Site and Feature Demos
 *Moderator(s): Marcus Barnes/Eric Luhrs*
+This session is meant to be an informal look at the latest launches to inspire and build community. Whether you are attending IslandoraCon or not--there's a way you can participate! 
+<br>
+**Attendees:**
+<br>
+If you are going to be attending IslandoraCon and are willing to do a very brief show-and-tell of your modern Islandora site, write [kirsta.stapelfeldt@utoronto.ca](mailto:kirsta.stapelfeldt@utoronto.ca) to be added to the ‘open mike’ list.
+<br>
+If you are *not* going to be attending IslandoraCon but are willing to participate, please write [kirsta.stapelfeldt@utoronto.ca](mailto:kirsta.stapelfeldt@utoronto.ca) with your preference for the following:
+1. Submitting a brief, pre-recorded video (<5 minutes)
+1. Joining a Zoom call with a member of the program committee (to be recorded and edited by us for use at the meeting)
+1. Presenting live (we will call you into the session **currently scheduled for Tuesday, July 25 at 3p.m. EST)**
+<br>
+**Note:** This is intended to be a recorded session that will be released to the community on YouTube.
 
 #### <a name="25-3-1"/> Options for a smaller Islandora
 *Facilitator: Cary Gordon*
@@ -139,5 +151,12 @@ The use of Drupal Paragraphs has the potential to substantially streamline and n
 
 #### <a name="27-3-1"/> Strategies for Digital Preservation in Islandora
 *Panel Presenters: Donald Moses, Mark Jordan, Kirsta Stapelfeldt*
+This panel presentation will provide an overview of the ways in which Islandora users and administrators can implement preservation methods for the content they steward.
+<br>
+Presenters will provide examples of how modules, tools, documentation, and policies available to the Islandora community intersect with the levels of digital preservation and how they can be implemented in their own repository. Presenters will include preservation approaches that are in development or production in their own repositories along with examples from the community.
+<br>
+Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora.
+
 
 #### <a name="Showcase"/> Service Provider Showcases
+Listen to our community service providers as they demonstrate the range of projects and services they develop for the Islandora community. These presentations provide attendees with a strong sense of the range of available supports for institutions installing Islandora. 
