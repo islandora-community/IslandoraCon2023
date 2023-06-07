@@ -54,7 +54,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 11:00 a.m.      | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) |
 | 11:30 a.m.      | *Lunch*                                             |
 | 12:30 p.m.      | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) |
-| 1:30 p.m.       | Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> Institutional Repository Interest Group (IRIG) (TBD) <br> Supporting Linked Data use-cases in the Digital Humanities (Susan Brown & Kirsta Stapelfeldt) |
+| 1:30 p.m.       | Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> Institutional Repository Interest Group (IRIG) (TBD) <br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown & Kirsta Stapelfeldt) |
 | 2:30 p.m.       | *Afternoon Break*                                   |
 | 3:00 p.m.       | [Service Provider Showcase](#Showcase) - discoverygarden inc |
 | 6:30-10:30 p.m. | Conference Dinner Offsite at Chúuk                  |
@@ -155,6 +155,9 @@ Presenters will provide examples of how modules, tools, documentation, and polic
 <br>
 Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora.
 
+#### <a name="27-4-3"/> Supporting Linked Data use-cases in the Digital Humanities
+*Panel Presenters: Susan Brown, Kirsta Stapelfeldt, Natalie Rothman* <br>
+This panel discusses how Islandora can support the production of customized linked data for digital humanities use cases. 
 
 #### <a name="Showcase"/> Service Provider Showcases
 Listen to our community service providers as they demonstrate the range of projects and services they develop for the Islandora community. These presentations provide attendees with a strong sense of the range of available supports for institutions installing Islandora. 
