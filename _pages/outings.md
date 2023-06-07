@@ -3,7 +3,7 @@ permalink: /outings/
 layout: splash
 title: "Welcome!"
 header:
-  overlay_image: "/assets/images/Toronto_Skyline.png"
+  overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
   overlay_filter: 0.25
   actions:
     - label: "See the schedule for IslandoraCon" 
