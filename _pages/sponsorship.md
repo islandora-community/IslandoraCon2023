@@ -43,5 +43,8 @@ Sponsorship is also available for Tuesday’s Cocktail Night, Wednesday’s Pizz
 ### PLATINUM Level Sponsor
 [![born-digital-logo](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/49186989-b90f-473e-aa97-cd6be0fc8d3c)](https://www.born-digital.com/)
 
+### SILVER Level Sponsor
+
+
 ### BRONZE Level Sponsor
 [![UL_CMU_Logo_Stacked_Red](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/dfe32cea-6c3d-42db-9023-f50796b7979f)](https://www.cmu.edu/)
