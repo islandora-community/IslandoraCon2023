@@ -3,7 +3,7 @@ permalink: /outings/
 layout: splash
 title: "Welcome!"
 header:
-  image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
+  overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
   actions:
     - label: "See the schedule for IslandoraCon" 
       url: "https://2023.islandora.ca/program/"
