@@ -5,7 +5,9 @@ title: "Welcome!"
 header:
   overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
   overlay_filter: linear-gradient(to right, rgba(40, 67, 135, 0.50), rgba(40, 67, 135, 0.05))
-  align: bottom-right
+  position: absolute
+  right: 0px
+  bottom: 0px
   actions:
     - label: "See the schedule for IslandoraCon" 
       url: "https://2023.islandora.ca/program/"
