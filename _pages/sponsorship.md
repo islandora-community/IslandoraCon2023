@@ -33,7 +33,7 @@ If you would like to be a sponsor for this year's IslandoraCon, take a look at t
 * Slide provided on mobile display panel  
  
 ### BRONZE Level Sponsors – $500
-* Logo on program and website
+* Small logo on program and website
 * Shared slide provided on mobile display panel
  
 ### Event Sponsorship
