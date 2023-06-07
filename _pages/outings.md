@@ -4,10 +4,8 @@ layout: splash
 title: "Welcome!"
 header:
   overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
-  overlay_filter: linear-gradient(to right, rgba(52, 45, 113, 0.50), rgba(52, 45, 113, 0.05))
-  position: absolute
-  right: 0px
-  bottom: 0px
+  overlay_filter: linear-gradient(to right, rgba(37, 41, 88, 0.50), rgba(37, 41, 88, 0.05))
+  position: bottom-right
   actions:
     - label: "See the schedule for IslandoraCon" 
       url: "https://2023.islandora.ca/program/"
