@@ -4,7 +4,7 @@ layout: splash
 title: "Welcome!"
 header:
   overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
-    bottom: 0
+      bottom: 0
   overlay_filter: linear-gradient(to right, rgba(37, 41, 88, 0.50), rgba(37, 41, 88, 0.05))
   actions:
     - label: "See the schedule for IslandoraCon" 
