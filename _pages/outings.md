@@ -4,7 +4,7 @@ layout: splash
 title: "Welcome!"
 header:
   overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
-  overlay_filter: linear-gradient(to right, rgba(40, 67, 135, 0.50), rgba(40, 67, 135, 0.05))
+  overlay_filter: linear-gradient(to right, rgba(52, 45, 113, 0.50), rgba(52, 45, 113, 0.05))
   position: absolute
   right: 0px
   bottom: 0px
