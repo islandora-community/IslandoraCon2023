@@ -10,6 +10,7 @@ header:
     - label: "See the schedule for IslandoraCon" 
       url: "https://2023.islandora.ca/program/"
   caption: "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)"
+      align: top-right
 
 ---
 
