@@ -3,12 +3,12 @@ permalink: /outings/
 layout: splash
 title: "Welcome!"
 header:
-  overlay_image: "/assets/images/IslandoraConAnimatedLogoLoopOnce.gif"
-  overlay_filter: linear-gradient(to right, rgba(37, 41, 88, 0.50), rgba(37, 41, 88, 0.05))
+  overlay_image: "/assets/images/Toronto_Skyline.png"
+  overlay_filter: 0.25
   actions:
     - label: "See the schedule for IslandoraCon" 
       url: "https://2023.islandora.ca/program/"
-  caption: "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)"
+  caption: "Whpq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
 
