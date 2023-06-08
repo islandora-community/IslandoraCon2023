@@ -67,7 +67,7 @@ Airport Services from Billy Bishop
 [GoTransit](https://www.gotransit.com/en/)
 
 * A GoTrain is available from Union Station (as well as other locations in the GTA)
-* If arriving by GoTrain, there is a [GO station in Scarborough](https://www.gotransit.com/en/stations-stops-parking/find-a-station-or-stop/results?stationCode=SC&searchResults=true) that is [approximately a 20 minute drive or 40 minute bus trip to UTSC](https://goo.gl/maps/ditMqmrxzyPsAzxv8).
+* If arriving by GoTrain, there is a [GO station in Scarborough](https://www.gotransit.com/en/find-a-station-or-stop/sc/station-details) that is [approximately a 20 minute drive or 40 minute bus trip to UTSC](https://goo.gl/maps/ditMqmrxzyPsAzxv8).
 
 [ViaRail](https://www.viarail.ca/en)
 
