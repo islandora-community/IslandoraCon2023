@@ -44,12 +44,12 @@ As a part of the Greater Toronto Area, you can expect to find plenty of deliciou
 
 ### Our Favourites
 
-* Makkal Chon
-* Nakamori 
-* Atithi 
-* B Boyz
-* Roti Hut
-* Mona's Roti
+* [Makkal Chon](https://www.ubereats.com/ca/store/makkal-chon/3KNotqWzRhikYiR_e6G2yw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google)
+* [Nakamori](https://nakamori.ca/)
+* [Atithi](http://atithipureveg.com/)
+* [B Boyz](https://bboyz.ca/)
+* [Roti Hut](https://www.therotihut.com/)
+* [Mona's Roti](https://monasroti.com/)
 
 ### On Campus and Near Campus Options
 [Check out what's open across campus here](https://www.utsc.utoronto.ca/programs/utscfood/), or get a walk in by checking out nearby options:
