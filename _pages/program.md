@@ -44,6 +44,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 2:30 p.m.       | *Afternoon Break*                                   |
 | 3:00 p.m.       | Islandora AGM (hybrid)                              |
 | 4:00 p.m.       | [Service Provider Showcase](#Showcase) - Born-Digital |
+| 5:00 p.m.       | Library Art Walk                                    |
 | 5:30 p.m.       | Use-a-Thon Pizza Party at the UTSC Library (Sponsored by discoverygarden inc) |
 
 | Time            | Thursday, July 27                                   |
