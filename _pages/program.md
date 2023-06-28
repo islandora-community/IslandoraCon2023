@@ -129,7 +129,7 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022.
 
 #### <a name="26-1-2"/> Islandora Migrate
-*Presenter: Luke Taylor* <br>
+*Presenter: Will Panting* <br>
 discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will introduce the toolset and its core functionality, describe how it can be used in migration use cases. The developers will be available to answer questions from others planning migrations that might benefit from the use of this tool.
 
 #### <a name="26-2"/> Fedora Community Update
@@ -145,7 +145,7 @@ Recently, the question of Fedora's role in Islandora has been raised by newcomer
 Several institutions have deployed Mirador with Islandora and made use of some of its various features. This presentation co-locates and reviews all of the knowledge required to integrate Mirador into Islandora and make full use of its plugins. This presentation reviews the steps from compiling and deploying the Mirador React app, to bringing it into Drupal, and its plugin architecture. Attendees will learn how to set up Solr and Islandora to power Mirador’s built-in search feature, bringing together multiple concurrent strands of community discussion and work. 
 
 #### <a name="27-2"/> Content Modeling for Derivatives using Islandora Paragraphs
-*Presenter: Luke Taylor* <br>
+*Presenter: Will Panting* <br>
 The use of Drupal Paragraphs has the potential to substantially streamline and normalize the way we handle media derivative production in Islandora. Listen to the pitch and weigh in on whether or not this use case works for you!
 
 #### <a name="27-3-1"/> Strategies for Digital Preservation in Islandora
