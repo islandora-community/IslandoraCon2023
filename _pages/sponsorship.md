@@ -46,6 +46,9 @@ Sponsorship is also available for Tuesday’s Cocktail Night, Wednesday’s Pizz
 ### SILVER Level Sponsor
 [![discoverygarden](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/53db860a-b8b7-4288-8022-775d6faa08ba)](https://www.discoverygarden.ca/)
 
+### GOLD Level Sponsor
+[![UPEI_Logo (1)](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/c368e935-654b-44e0-bd52-84c2b3289e67)](https://www.upei.ca/)
+
 
 ### BRONZE Level Sponsor
 [![UL_CMU_Logo_Stacked_Red](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/dfe32cea-6c3d-42db-9023-f50796b7979f)](https://www.cmu.edu/)
