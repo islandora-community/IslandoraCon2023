@@ -44,7 +44,7 @@ Sponsorship is also available for Tuesday’s Cocktail Night, Wednesday’s Pizz
 [![born-digital-logo](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/49186989-b90f-473e-aa97-cd6be0fc8d3c)](https://www.born-digital.com/)
 
 ### SILVER Level Sponsor
-![discoverygarden](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/53db860a-b8b7-4288-8022-775d6faa08ba)
+[![discoverygarden](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/53db860a-b8b7-4288-8022-775d6faa08ba)](https://www.discoverygarden.ca/)
 
 
 ### BRONZE Level Sponsor
@@ -52,4 +52,4 @@ Sponsorship is also available for Tuesday’s Cocktail Night, Wednesday’s Pizz
 
 ### Event Sponsors
 #### Pizza Party
-![discoverygarden](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/53db860a-b8b7-4288-8022-775d6faa08ba)
+[![discoverygarden](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/53db860a-b8b7-4288-8022-775d6faa08ba)](https://www.discoverygarden.ca/)
