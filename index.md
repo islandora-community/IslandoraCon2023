@@ -19,12 +19,6 @@ IslandoraCon 2023 will take place at the University of Toronto Scarborough July 
 
 All of our events follow our [code of conduct](https://www.islandora.ca/code-of-conduct).
 
-### Key Dates
-
-* May 08 - CfP closes
-* May 24 - Successful speakers will have been notified, and conference program complete
-* June 01 - Regular registration begins
-
 ### Conference Committee
 
 * Amy Blau (Whitman College)
@@ -34,6 +28,7 @@ All of our events follow our [code of conduct](https://www.islandora.ca/code-of-
 * Marcus Barnes (University of Toronto) 
 * Rebecca Power (Islandora Foundation Intern)
 
+![islandoraWifi-July](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/e236c508-7dd6-4a21-b8ea-41f2f49b51f7)
 
 You can see information on our previous conference IslandoraCon 2022, at the [archived conference website](https://2022.islandora.ca/).
 
