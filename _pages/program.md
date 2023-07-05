@@ -38,9 +38,9 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | --------------- | --------------------------------------------------- |
 | 8:30 a.m.       | Registration Desk open & coffee/snacks              |
 | 9:30 a.m.       | Welcome: [Use-a-Thon Projects](#Use-a-Thon) |
-| 10:30 a.m.      | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) (Chris Day) <br> **Stream two:** [Islandora Migrate](#26-1-2) (Will Panting) |
+| 10:30 a.m.      | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) (Chris Day) <br> **Stream two:** [Revisiting the Islandora-Fedora Integration](#26-3) (Seth Shaw) |
 | 12:00 p.m.      | *Lunch*                                             |
-| 1:00 p.m.       | [Fedora Community Update](#26-2) (Arran Griffith) <br> [Revisiting the Islandora-Fedora Integration](#26-3) (Seth Shaw) |
+| 1:00 p.m.       | [Islandora Migrate](#26-1-2) (Will Panting)         |
 | 2:30 p.m.       | *Afternoon Break*                                   |
 | 3:00 p.m.       | Islandora AGM (hybrid)                              |
 | 4:00 p.m.       | [Service Provider Showcase](#Showcase) - Born-Digital |
@@ -128,17 +128,13 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 *Presenter: Chris Day* <br>
 This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022.
 
-#### <a name="26-1-2"/> Islandora Migrate
-*Presenter: Will Panting* <br>
-discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will introduce the toolset and its core functionality, describe how it can be used in migration use cases. The developers will be available to answer questions from others planning migrations that might benefit from the use of this tool.
-
-#### <a name="26-2"/> Fedora Community Update
-*Presenter: Arran Griffith* <br>
-This presentation will showcase all of the recent initiatives the Fedora community has engaged in since the release of Fedora 6.0 in July 2021. There has been a strong focus on growing the community through new engagement initiatives, community-driven feature development and creating innovative ways to involve more users in decision-making processes. We will discuss how we used the It Takes a Village framework to guide our efforts as well as share lessons learned along the way. Finally we will share all of the newest features and development work underway for Fedora 6.4.
-
 #### <a name="26-3"/> Revisiting the Islandora-Fedora Integration
 *Presenter: Seth Shaw* <br>
 Recently, the question of Fedora's role in Islandora has been raised by newcomers to the community. This presentation will discuss Islandora's optional integration with Fedora as well as theoretical alternatives.
+
+#### <a name="26-1-2"/> Islandora Migrate
+*Presenter: Will Panting* <br>
+discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will situate the toolset in a repeatable migration process that any team can adopt. The project lead will be discussing project pitfalls and how to avoid them. The presenter and other team members will be available to answer questions from others planning migrations that might benefit from the use of this tool.
 
 #### <a name="27-1"/> Integrating Mirador and Islandora: Bringing everything we know together
 *Presenter: Alexander O’Neill* <br>
