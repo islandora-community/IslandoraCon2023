@@ -26,7 +26,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
 | 09:30 a.m. - 10:30 a.m. | Welcome Address, Introductions & Icebreakers <br> Catalyst Centre |
-| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) (Rosie LeFaive) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) (Kirsta Stapelfeldt, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
+| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) (Kirsta Stapelfeldt, Natkeeran Ledchumykanthan) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) (Rosie LeFaive) <br> Catalyst Centre *recorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
@@ -72,6 +72,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 ## Session Descriptions
 
 #### <a name="25-1-1"/> Introduction to Islandora (Starter Site)
+*Facilitator:
 New to Islandora and/or looking for a refresher? Attendees at this workshop will install and learn the basics of the Islandora Starter Site, including a high-level overview of Islandora’s basic architecture and feature set. Users are encouraged to complete basic tasks designed to support a mental model of Islandora.
 <br>
 **Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). 
