@@ -25,32 +25,32 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Tuesday, July 25                                            |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome Address <br> Introductions & Icebreakers    |
-| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) (Rosie LeFaive) <br> EV Room 140 *recorded* <br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) (Kirsta Stapelfeldt, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
+| 09:30 a.m. - 10:30 a.m. | Welcome Address <br> Introductions & Icebreakers <br> Catalyst Centre |
+| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) (Rosie LeFaive) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) (Kirsta Stapelfeldt, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
-| 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *recorded* <br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
+| 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Islandora Site and Features Demo](#Demos) <br> Catalyst Centre *unrecorded* |
-| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre *unrecorded* |
-| 06:30 p.m. - 10:30 p.m. | Cocktail/Mixer at Ralph Campbell Lounge             |
+| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre *unrecorded* |
+| 06:30 p.m. - 10:30 p.m. | Cocktail/Mixer <br> Ralph Campbell Lounge           |
 
 | Time            | Wednesday, July 26                                          |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) |
-| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) *recorded* (Chris Day) <br> **Stream two:** [Revisiting the Islandora-Fedora Integration (45 mins)](#26-3) *recorded* (Seth Shaw) |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
+| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) (Chris Day) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Revisiting the Islandora-Fedora Integration (45 mins)](#26-3) (Seth Shaw) <br> EV Room 140 *recorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
-| 01:00 p.m. - 02:30 p.m. | [Islandora Migrate](#26-1-2) *recorded* (Will Panting)         |
+| 01:00 p.m. - 02:30 p.m. | [Islandora Migrate](#26-1-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | Islandora AGM (hybrid)                              |
-| 04:00 p.m. - 05:00 p.m. | [Service Provider Showcase](#Showcase) - Born-Digital |
+| 03:00 p.m. - 04:00 p.m. | Islandora AGM (hybrid) <br> Catalyst Centre |
+| 04:00 p.m. - 05:00 p.m. | [Service Provider Showcase](#Showcase) - Born-Digital <br> Catalyst Centre |
 | 05:00 p.m. - 05:30 p.m. | Library Art Walk                                    |
-| 05:30 p.m.              | Use-a-Thon Pizza Party at the UTSC Library (Sponsored by discoverygarden inc) |
+| 05:30 p.m.              | Use-a-Thon Pizza Party (Sponsored by discoverygarden inc) <br> UTSC Library |
 
 | Time            | Thursday, July 27                                           |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon)         |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
 | 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) *recorded* (Alexander O’Neill) |
 | 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) *recorded* (Will Panting) |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
@@ -63,7 +63,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Friday, July 28                                             |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 12:00 p.m. | Final Day Roundup <br> Use-a-Thon Presentations <br> Concluding Address |
+| 09:30 a.m. - 12:00 p.m. | Final Day Roundup, Use-a-Thon Presentations, Concluding Address <br> Catalyst Centre |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
