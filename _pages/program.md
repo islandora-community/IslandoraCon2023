@@ -18,56 +18,56 @@ Note: All times listed below are Eastern, and sessions are provisional.
 
 ## Schedule
 
-| Time           | Monday, July 24                                      |
-| -------------- | ---------------------------------------------------- |
-| 2:30-4:30 p.m. | Registration Desk open                               |  
+| Time           | Monday, July 24                                              |
+| -------------- | ------------------------------------------------------------ |
+| 02:30 p.m. - 04:30 p.m. | Registration Desk open                              |  
 
-| Time            | Tuesday, July 25                                    |
-| --------------- | --------------------------------------------------- |
-| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
-| 9:30 a.m.       | Welcome Address <br> Introductions & Icebreakers    |
-| 10:30 a.m.      | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) <br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) |
-| 12:00 p.m.      | *Lunch*                                             |
-| 1:00 p.m.       | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) |
-| 2:30 p.m.       | *Afternoon Break*                                   |
-| 3:00 p.m.       | [Islandora Site and Features Demo](#Demos) |
-| 4:00 p.m.       | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) |
-| 6:30-10:30 p.m. | Cocktail/Mixer at Ralph Campbell Lounge             |
+| Time            | Tuesday, July 25                                            |
+| --------------- | ----------------------------------------------------------- |
+| 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
+| 09:30 a.m. - 10:30 a.m. | Welcome Address <br> Introductions & Icebreakers    |
+| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) *recorded* (Rosie LeFaive) <br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) *recorded* (Kirsta Stapelfeldt, Natkeeran Ledchumykanthan) |
+| 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
+| 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) *recorded* (Yamil Suárez, Rebecca Power) <br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) *unrecorded* (Mark Jordan) |
+| 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
+| 03:00 p.m. - 04:00 p.m. | [Islandora Site and Features Demo](#Demos) *unrecorded* |
+| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) *recorded* (Cary Gordon) <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) *unrecorded* |
+| 06:30 p.m. - 10:30 p.m. | Cocktail/Mixer at Ralph Campbell Lounge             |
 
-| Time            | Wednesday, July 26                                  |
-| --------------- | --------------------------------------------------- |
-| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
-| 9:30 a.m.       | Welcome: [Use-a-Thon Projects](#Use-a-Thon) |
-| 10:30 a.m.      | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) (Chris Day) <br> **Stream two:** [Revisiting the Islandora-Fedora Integration](#26-3) (Seth Shaw) |
-| 12:00 p.m.      | *Lunch*                                             |
-| 1:00 p.m.       | [Islandora Migrate](#26-1-2) (Will Panting)         |
-| 2:30 p.m.       | *Afternoon Break*                                   |
-| 3:00 p.m.       | Islandora AGM (hybrid)                              |
-| 4:00 p.m.       | [Service Provider Showcase](#Showcase) - Born-Digital |
-| 5:00 p.m.       | Library Art Walk                                    |
-| 5:30 p.m.       | Use-a-Thon Pizza Party at the UTSC Library (Sponsored by discoverygarden inc) |
+| Time            | Wednesday, July 26                                          |
+| --------------- | ----------------------------------------------------------- |
+| 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) |
+| 10:30 a.m. - 12:00 p.m. | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) *recorded* (Chris Day) <br> **Stream two:** [Revisiting the Islandora-Fedora Integration (45 mins)](#26-3) *recorded* (Seth Shaw) |
+| 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
+| 01:00 p.m. - 02:30 p.m. | [Islandora Migrate](#26-1-2) *recorded* (Will Panting)         |
+| 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
+| 03:00 p.m. - 04:00 p.m. | Islandora AGM (hybrid)                              |
+| 04:00 p.m. - 05:00 p.m. | [Service Provider Showcase](#Showcase) - Born-Digital |
+| 05:00 p.m. - 05:30 p.m. | Library Art Walk                                    |
+| 05:30 p.m.              | Use-a-Thon Pizza Party at the UTSC Library (Sponsored by discoverygarden inc) |
 
-| Time            | Thursday, July 27                                   |
-| --------------- | --------------------------------------------------- |
-| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
-| 9:30 a.m.       | Welcome: [Use-a-Thon Projects](#Use-a-Thon) |
-| 10:30 a.m.      | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) |
-| 11:00 a.m.      | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) |
-| 11:30 a.m.      | *Lunch*                                             |
-| 12:30 p.m.      | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) |
-| 1:30 p.m.       | Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan) |
-| 2:30 p.m.       | *Afternoon Break*                                   |
-| 3:00 p.m.       | [Service Provider Showcase](#Showcase) - discoverygarden inc |
-| 6:30-10:30 p.m. | Conference Dinner Offsite at Chúuk                  |
+| Time            | Thursday, July 27                                           |
+| --------------- | ----------------------------------------------------------- |
+| 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon)         |
+| 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) *recorded* (Alexander O’Neill) |
+| 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) *recorded* (Will Panting) |
+| 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
+| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) *recorded* (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) *unrecorded* |
+| 01:30 p.m. - 02:30 p.m.  | Introduction to the Documentation Interest Group (DIG) *recorded* (Yamil Suárez) <br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) *recorded* (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan) |
+| 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
+| 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc |
+| 6:30-10:30 p.m. | Conference Dinner Offsite at Chúuk                          |
 
-| Time            | Friday, July 28                                     |
-| --------------- | --------------------------------------------------- |
-| 8:30 a.m.       | Registration Desk open & coffee/snacks              |
-| 9:30 a.m.       | Final Day Roundup <br> Use-a-Thon Presentations <br> Concluding Address |
-| 12:00 p.m.      | *Lunch*                                             |
-| 1:00 p.m.       | Interest Group and Community Meetings               |
-| 2:30 p.m.       | *Afternoon Break*                                   |
-| 3:00 p.m.       | Community Meetings                                  |
+| Time            | Friday, July 28                                             |
+| --------------- | ----------------------------------------------------------- |
+| 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
+| 09:30 a.m. - 12:00 p.m. | Final Day Roundup <br> Use-a-Thon Presentations <br> Concluding Address |
+| 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
+| 01:00 p.m. - 02:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) |
+| 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
+| 03:00 p.m. - 04:00 p.m. | Community Meeting: Streamlining Islandora Deployment Options (Luke Taylor, Noah Smith, Rosie LeFaive) |
 
 ## Session Descriptions
 
