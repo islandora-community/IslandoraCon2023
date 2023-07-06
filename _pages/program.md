@@ -58,7 +58,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 01:30 p.m. - 02:30 p.m.  | Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> Catalyst Centre *recorded* <br><br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc <br> Catalyst Centre |
-| 6:30-10:30 p.m. | Conference Dinner Offsite at Chúuk                          |
+| 6:30-10:30 p.m. | Conference Dinner Offsite <br> Chúuk                        |
 
 | Time            | Friday, July 28                                             |
 | --------------- | ----------------------------------------------------------- |
