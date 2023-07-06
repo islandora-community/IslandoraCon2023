@@ -54,7 +54,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) <br> Catalyst Centre *recorded* |
 | 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
-| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> EV Room 140 *unrecorded* |
+| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> EV Room 140 *unrecorded* |
 | 01:30 p.m. - 02:30 p.m.  | Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> Catalyst Centre *recorded* <br><br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc <br> Catalyst Centre |
