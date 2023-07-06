@@ -93,7 +93,7 @@ Just getting started with Islandora? Attend a community onboarding session where
 *Room: Catalyst Centre* <br>
 Islandora Workbench is a popular tool for managing content in an Islandora 2 repository. This hands-on workshop will allow participants to gain experience and confidence with Workbench, and to learn about how they can use it to maintain their repositories.
 <br>
-**Note:** Participants must have a laptop running either ISLE-DC or Islandora Playbook.
+**Note:** Participants must have a laptop running Starter Site, either the [docker demo or Isle-Site Template](https://islandora.github.io/documentation/installation/install-a-demo/).
 
 #### <a name="Demos"/> Islandora Site and Feature Demos
 *Moderators: Marcus Barnes/Eric Luhrs* <br>
