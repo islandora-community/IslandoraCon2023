@@ -51,13 +51,13 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
 | 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
-| 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) *recorded* (Alexander O’Neill) |
-| 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) *recorded* (Will Panting) |
+| 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) <br> Catalyst Centre *recorded* |
+| 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
-| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) *recorded* (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) *unrecorded* |
-| 01:30 p.m. - 02:30 p.m.  | Introduction to the Documentation Interest Group (DIG) *recorded* (Yamil Suárez) <br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) *recorded* (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan) |
+| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> EV Room 140 *unrecorded* |
+| 01:30 p.m. - 02:30 p.m.  | Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> Catalyst Centre *recorded* <br><br> [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc |
+| 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc <br> Catalyst Centre |
 | 6:30-10:30 p.m. | Conference Dinner Offsite at Chúuk                          |
 
 | Time            | Friday, July 28                                             |
@@ -65,9 +65,9 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
 | 09:30 a.m. - 12:00 p.m. | Final Day Roundup, Use-a-Thon Presentations, Concluding Address <br> Catalyst Centre |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
-| 01:00 p.m. - 02:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) |
+| 01:00 p.m. - 02:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) <br> Catalyst Centre |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | Community Meeting: Streamlining Islandora Deployment Options (Luke Taylor, Noah Smith, Rosie LeFaive) |
+| 03:00 p.m. - 04:00 p.m. | Community Meeting: Streamlining Islandora Deployment Options (Luke Taylor, Noah Smith, Rosie LeFaive) <br> Catalyst Centre |
 
 ## Session Descriptions
 
