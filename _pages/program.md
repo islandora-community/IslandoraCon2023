@@ -25,7 +25,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Tuesday, July 25                                            |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome Address <br> Introductions & Icebreakers <br> Catalyst Centre |
+| 09:30 a.m. - 10:30 a.m. | Welcome Address, Introductions & Icebreakers <br> Catalyst Centre |
 | 10:30 a.m. - 12:00 p.m. | **Stream one:** [Introduction to Islandora (Starter Site)](#25-1-1) (Rosie LeFaive) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Developing in Islandora and Deploying to Production](#25-1-2) (Kirsta Stapelfeldt, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
