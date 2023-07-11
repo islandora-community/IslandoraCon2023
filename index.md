@@ -15,8 +15,6 @@ header:
 
 IslandoraCon 2023 will take place at the University of Toronto Scarborough July 25-28 2023. 
 
-* [Register now!](https://www.eventbrite.ca/e/553699408837)
-
 All of our events follow our [code of conduct](https://www.islandora.ca/code-of-conduct).
 
 ### Conference Committee
