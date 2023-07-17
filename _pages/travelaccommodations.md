@@ -37,7 +37,6 @@ The University of Toronto Scarborough is located at [1265 Military Trail, Toront
 
 
 #### Hotels
-**Book with the Comfort Inn until July 3 to receive our group rate: [Book here!](https://www.choicehotels.com/reservations/groups/FS62Q3)**
 
 | Hotels | Rates | Location and Directions |
 |---|---|---|
