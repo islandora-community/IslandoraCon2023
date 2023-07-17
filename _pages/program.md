@@ -79,7 +79,7 @@ New to Islandora and/or looking for a refresher? Attendees at this workshop will
 **Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the Portainer Demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). 
 
 #### <a name="25-1-2"/> Developing in Islandora and Deploying to Production
-*Presenter: Rosie LeFaive, Natkeeran Ledchumykanthan*
+*Presenter: Rosie LeFaive, Natkeeran Ledchumykanthan* <br>
 *Room: Catalyst Centre* <br>
 Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This site will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora. 
 
