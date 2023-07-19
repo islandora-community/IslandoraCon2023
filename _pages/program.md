@@ -30,7 +30,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | [Islandora Site and Features Demo](#Demos) <br> Catalyst Centre *unrecorded* |
+| 03:00 p.m. - 04:00 p.m. | [Islandora Site and Features Demo](#Demos) <br> Catalyst Centre *recorded* |
 | 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre *unrecorded* |
 | 06:30 p.m. - 10:30 p.m. | Cocktail/Mixer <br> Ralph Campbell Lounge           |
 
