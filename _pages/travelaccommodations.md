@@ -62,14 +62,10 @@ Airport Services from Billy Bishop
 * [Ferry to the foot of Bathurst Street](https://www.billybishopairport.com/to-from/ferry)
 * [Pedestrian Tunnel to Mainland](https://www.billybishopairport.com/to-from/pedestrian-tunnel)
 
-[GoTransit](https://www.gotransit.com/en/)
+[GoTransit](https://www.gotransit.com/en/) & [ViaRail](https://www.viarail.ca/en)
 
 * A GoTrain is available from Union Station (as well as other locations in the GTA)
-* If arriving by GoTrain, there is a [GO station in Scarborough](https://www.gotransit.com/en/find-a-station-or-stop/gu/station-details) that is [approximately a 20 minute drive or 40 minute bus trip to UTSC](https://goo.gl/maps/ditMqmrxzyPsAzxv8).
-
-[ViaRail](https://www.viarail.ca/en)
-
-* If arriving by train, there is a [ViaRail station in Scarborough](https://www.viarail.ca/en/explore-our-destinations/stations/ontario/guildwood) that is [approximately a 10 minute drive or 15 minute bus trip to UTSC](https://goo.gl/maps/tgEmwkiK8ce3WDmN7). 
+* If arriving by train or GoTrain, there is a [GO and ViaRail station in Scarborough](https://www.gotransit.com/en/find-a-station-or-stop/gu/station-details) that is [approximately a 15 minute drive or 20 minute bus trip to UTSC](https://goo.gl/maps/2HDsSxhfNB6tTkEk6).
 
 [back to top](#top)
 
