@@ -31,18 +31,18 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Islandora Site and Features Demo](#Demos) <br> Catalyst Centre *recorded* |
-| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre *unrecorded* |
+| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre *unrecorded* |
 | 06:30 p.m. - 10:30 p.m. | Cocktail/Mixer <br> Ralph Campbell Lounge           |
 
 | Time            | Wednesday, July 26                                          |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre |
 | 10:30 a.m. - 12:00 p.m. | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) (Chris Day) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Revisiting the Islandora-Fedora Integration (45 mins)](#26-3) (Seth Shaw) <br> EV Room 140 *recorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:30 p.m. | [Islandora Migrate](#26-1-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | Islandora AGM (hybrid) <br> Catalyst Centre *unrecorded* |
+| 03:00 p.m. - 04:00 p.m. | Islandora AGM (hybrid) ([View the Agenda](https://docs.google.com/document/d/1ggFweOWYTdYHqLiDCHAVCtTpFNuSv814ws4eA3f1X80/edit?usp=sharing))<br> Catalyst Centre *unrecorded* |
 | 04:00 p.m. - 05:00 p.m. | [Service Provider Showcase](#Showcase) - Born-Digital <br> Catalyst Centre *unrecorded* |
 | 05:00 p.m. - 05:30 p.m. | Library Art Walk                                    |
 | 05:30 p.m.              | Use-a-Thon Pizza Party (Sponsored by discoverygarden inc) <br> UTSC Library |
@@ -50,11 +50,11 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Thursday, July 27                                           |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre |
 | 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) <br> Catalyst Centre *recorded* |
 | 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
-| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> EV Room 140 *unrecorded* |
+| 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) [Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing) <br> EV Room 140 *unrecorded* |
 | 01:30 p.m. - 02:30 p.m.  | **Stream one:** Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan, Bennett Steinburg, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc <br> Catalyst Centre *unrecorded* |
@@ -118,7 +118,7 @@ I propose a breakout for public libraries, small institutions, vendors to the sa
 
 #### <a name="Use-a-Thon"/> Use-a-Thon Projects
 **What is a Use-a-Thon?** <br>
-The Islandora Use-a-Thon is an opportunity to work with conference participants, learn new things, and configure Islandora to do something new! Even if you are new to Islandora, you are encouraged to join an existing Use-a-Thon in an area of interest to you. Use-a-Thons ideally pair people from different institutions with differing skill sets on a specific goal. 
+The Islandora Use-a-Thon is an opportunity to work with conference participants, learn new things, and configure Islandora to do something new! Even if you are new to Islandora, you are encouraged to join an existing Use-a-Thon in an area of interest to you. Use-a-Thons ideally pair people from different institutions with differing skill sets on a specific goal. <br> [Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)
 
 **How does it work?** <br>
 The latest version of Islandora is tightly integrated with Drupal, and very flexible, so many use cases can be solved with a combination of configuration and Drupal contributed modules.
