@@ -93,8 +93,7 @@ Driving
 [back to top](#top)
 
 ### <a name="Campus-Map"/> Campus Map
-The Catalyst Centre is located in the Environmental Science & Chemistry Building (labeled EV on the map), and the Townhouses are located in the South Residences. The easiest way to get between the Townhouses and EV Building is the Military Trail.
-![CampusMapDirections](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/4aac341b-c5c3-48bb-b218-f955e96000c0)
+The Catalyst Centre is located in the Environmental Science & Chemistry Building (labeled EV on the map), and the Townhouses are located in the North Residences, which is right across the street from the EV Building!
 
 
 [back to top](#top)
