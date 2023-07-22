@@ -15,14 +15,15 @@ header:
 ## <a name="top"/> Accommodations, Getting Here, and Getting Around
 
 The University of Toronto Scarborough is located at [1265 Military Trail, Toronto, Ontario](https://goo.gl/maps/EpzbEp3CPgyy6kxK9).
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.509810820747!2d-79.1873806!3d43.7830333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4da6fb7abd57f%3A0xbb656e0169887bac!2sUniversity%20of%20Toronto%20Scarborough!5e0!3m2!1sen!2sca!4v1675196106252!5m2!1sen!2sca" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.306712409576!2d-79.1903222!3d43.787248299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4da718a29047f%3A0xda10bfb4574a7e10!2sEnvironmental%20Science%20and%20Chemistry%20Building!5e0!3m2!1sen!2sca!4v1690029387446!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+The Catalyst Centre is located in the [Environmental Science & Chemistry Building (EV Building)](https://goo.gl/maps/xWjABvxADoew6MvL9), and the [Townhouses are located in the North Residences](https://goo.gl/maps/FRoJxfHzk5Xv2vLE8), which is right across the street from the EV Building!
 
 ### On this page you can find the following information: 
 
 * [Accommodations](#Accommodations) - Our recommended accommodations near UTSC.
 * [Getting Here](#Getting-Here) - Services available to get you to Scarborough.
 * [Getting Around](#Getting-Around) - Services available to travel around Scarborough. 
-* [Campus Map](#Campus-Map) - Where the Conference and Townhouses are located
 
 ### <a name="Accommodations"/> Accommodations
 
@@ -71,10 +72,6 @@ Airport Services from Billy Bishop
 
 ### <a name="Getting-Around"/> Getting Around
 
-
-Taxis
-
-
 Public Transportation
 
 * Buses: plan your trip on [Google](https://www.google.com/maps/dir/University+of+Toronto+Scarborough,+1265+Military+Trail,+Scarborough,+ON+M1C+1A4/Union,+55+Front+St+W,+Toronto,+ON+M5J+1E6/@43.7827635,-79.2016937,14.75z/data=!4m14!4m13!1m5!1m1!1s0x89d4da6fb7abd57f:0xbb656e0169887bac!2m2!1d-79.1873806!2d43.7830333!1m5!1m1!1s0x882b34d334933a71:0x63d8a0ae303a1e65!2m2!1d-79.3806321!2d43.6452417!3e3) and [TTC](https://www.ttc.ca/routes-and-schedules#/).
@@ -84,12 +81,8 @@ Public Transportation
 
 Driving
 
-* Parking is available on campus, which can be viewed [here](https://www.utsc.utoronto.ca/home/parking-utsc).
+* If you require parking on campus, please use [Parking Lot G](https://goo.gl/maps/j9CGP1uwWjWLdcJA8) and get a daily arking pass at the registration desk. Parking Lot G is located across the street from the EV Building where the conference will be taking place. 
 
-[back to top](#top)
-
-### <a name="Campus-Map"/> Campus Map
-The Catalyst Centre is located in the Environmental Science & Chemistry Building (labeled EV on the map), and the Townhouses are located in the North Residences, which is right across the street from the EV Building!
 
 
 [back to top](#top)
