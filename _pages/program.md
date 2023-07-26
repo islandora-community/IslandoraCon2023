@@ -135,7 +135,7 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 #### <a name="26-1-1"/> Islandora for Metadata Librarians
 *Presenter: Chris Day* <br>
 *Room: Catalyst Centre* <br>
-This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022 <br>
+This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022. <br>
 [View the slides here](https://docs.google.com/presentation/d/1L8c7cN_rakWtytOWyRQKuUJ2x__H1M3IjQEoaX1b7IU/edit?usp=sharing)
 
 #### <a name="26-3"/> Revisiting the Islandora-Fedora Integration (45 mins)
