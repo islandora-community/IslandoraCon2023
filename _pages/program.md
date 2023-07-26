@@ -42,7 +42,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:30 p.m. | [Islandora Migrate](#26-1-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | Islandora AGM (hybrid) ([View the Agenda](https://docs.google.com/document/d/1ggFweOWYTdYHqLiDCHAVCtTpFNuSv814ws4eA3f1X80/edit?usp=sharing))<br> Catalyst Centre *unrecorded* |
+| 03:00 p.m. - 04:00 p.m. | [Islandora AGM (hybrid)](https://docs.google.com/presentation/d/13LyZosIXa2oXmC7i4Lqntn25nXKBjJ1Yl4H_HIxbp44/edit?usp=sharing) ([View the Agenda](https://docs.google.com/document/d/1ggFweOWYTdYHqLiDCHAVCtTpFNuSv814ws4eA3f1X80/edit?usp=sharing))<br> Catalyst Centre *unrecorded* |
 | 04:00 p.m. - 05:00 p.m. | [Service Provider Showcase](#Showcase) - Born-Digital <br> Catalyst Centre *unrecorded* |
 | 05:00 p.m. - 05:30 p.m. | Library Art Walk                                    |
 | 05:30 p.m.              | Use-a-Thon Pizza Party (Sponsored by discoverygarden inc) <br> UTSC Library |
