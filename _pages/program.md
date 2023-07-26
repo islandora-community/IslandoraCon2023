@@ -135,12 +135,14 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 #### <a name="26-1-1"/> Islandora for Metadata Librarians
 *Presenter: Chris Day* <br>
 *Room: Catalyst Centre* <br>
-This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022.
+This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022 <br>
+[View the slides here](https://docs.google.com/presentation/d/1L8c7cN_rakWtytOWyRQKuUJ2x__H1M3IjQEoaX1b7IU/edit?usp=sharing)
 
 #### <a name="26-3"/> Revisiting the Islandora-Fedora Integration (45 mins)
 *Presenter: Seth Shaw* <br>
 *Room: EV Room 140* <br>
-Recently, the question of Fedora's role in Islandora has been raised by newcomers to the community. This presentation will discuss Islandora's optional integration with Fedora as well as theoretical alternatives.
+Recently, the question of Fedora's role in Islandora has been raised by newcomers to the community. This presentation will discuss Islandora's optional integration with Fedora as well as theoretical alternatives.<br>
+[View the slides here](https://drive.google.com/file/d/1D_0Z1x-EwiNFj5a3hbNCUYYAN2-m6rVV/view?usp=sharing)
 
 #### <a name="26-1-2"/> Islandora Migrate
 *Presenter: Will Panting* <br>
@@ -173,4 +175,5 @@ This panel discusses how Islandora can support the production of customized link
 
 #### <a name="Showcase"/> Service Provider Showcases
 *Room: Catalyst Centre* <br>
-Listen to our community service providers as they demonstrate the range of projects and services they develop for the Islandora community. These presentations provide attendees with a strong sense of the range of available supports for institutions installing Islandora. 
+Listen to our community service providers as they demonstrate the range of projects and services they develop for the Islandora community. These presentations provide attendees with a strong sense of the range of available supports for institutions installing Islandora. <br>
+[View the slides for the Born-Digital Showcase here](https://docs.google.com/presentation/d/1RtsDP_RS30eX434L5ZBxWdcqVfcc7MGlP6oLozuapKE/edit?usp=sharing)
