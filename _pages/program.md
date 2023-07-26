@@ -67,7 +67,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | Community Meeting: Streamlining Islandora Deployment Options (Luke Taylor, Noah Smith, Rosie LeFaive) <br> Catalyst Centre *unrecorded* |
+| 03:00 p.m. - 04:00 p.m. | Community Meeting: Streamlining Islandora ment Options (Luke Taylor, Noah Smith, Rosie LeFaive) <br> Catalyst Centre *unrecorded* |
 
 ## Session Descriptions
 
@@ -76,12 +76,14 @@ Note: All times listed below are Eastern, and sessions are provisional.
 *Room: EV Room 140* <br>
 New to Islandora and/or looking for a refresher? Attendees at this workshop will install and learn the basics of the Islandora Starter Site, including a high-level overview of Islandora’s basic architecture and feature set. Users are encouraged to complete basic tasks designed to support a mental model of Islandora.
 <br>
-**Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the Portainer Demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). 
+**Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the Portainer Demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). <br>
+[View the slides here](https://docs.google.com/presentation/d/1YTxq5nLwFdcfHPSeJQj24ZH6MRk6Jfb5c2BgKVVvjuk/edit?usp=sharing)
 
 #### <a name="25-1-2"/> Developing in Islandora and Deploying to Production
 *Presenters: Rosie LeFaive & Natkeeran Ledchumykanthan* <br>
 *Room: Catalyst Centre* <br>
-Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This site will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora. 
+Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This site will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora.<br> 
+[View the slides here](https://docs.google.com/presentation/d/18HJbb7lyrZtoLnAsGit69zAwZHv96pbKEMr0xBevzvY/edit?usp=sharing)
 
 #### <a name="25-2-1"/> Community Onboarding
 *Presenters: Yamil Suárez & Rebecca Power* <br>
