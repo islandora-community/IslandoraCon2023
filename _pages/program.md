@@ -66,7 +66,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 09:30 a.m. - 10:30 a.m. | Final Day Roundup, Use-a-Thon Presentations, Concluding Address <br> Catalyst Centre |
 | 10:30 a.m. - 12:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) <br> Catalyst Centre *unrecorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch* |
-| 01:00 p.m. - 02:30 p.m. | Community Meeting: Streamlining Islandora ment Options (Luke Taylor, Noah Smith, Rosie LeFaive) <br> Catalyst Centre *unrecorded* |
+| 01:00 p.m. - 02:30 p.m. | Community Meeting: Streamlining Islandora Deployment Options (Luke Taylor, Alex O'Neill, Rosie LeFaive) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | *free time - work time*                             |
 
