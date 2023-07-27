@@ -51,7 +51,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
 | 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre |
-| 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) <br> Catalyst Centre *recorded* |
+| 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) <br> Catalyst Centre *unrecorded* |
 | 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
 | 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) [Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing) <br> EV Room 140 *unrecorded* |
@@ -63,11 +63,12 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Friday, July 28                                             |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 12:00 p.m. | Final Day Roundup, Use-a-Thon Presentations, Concluding Address <br> Catalyst Centre |
-| 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
-| 01:00 p.m. - 02:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) <br> Catalyst Centre *unrecorded* |
+| 09:30 a.m. - 10:30 a.m. | Final Day Roundup, Use-a-Thon Presentations, Concluding Address <br> Catalyst Centre |
+| 10:30 a.m. - 12:00 p.m. | Community Meeting: Reversing Node/Media Relationship (Natkeeran Ledchumykanthan, Kyle Huynh) <br> Catalyst Centre *unrecorded* |
+| 12:00 p.m. - 01:00 p.m. | *Lunch* |
+| 01:00 p.m. - 02:30 p.m. | Community Meeting: Streamlining Islandora ment Options (Luke Taylor, Noah Smith, Rosie LeFaive) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
-| 03:00 p.m. - 04:00 p.m. | Community Meeting: Streamlining Islandora ment Options (Luke Taylor, Noah Smith, Rosie LeFaive) <br> Catalyst Centre *unrecorded* |
+| 03:00 p.m. - 04:00 p.m. | *free time - work time*                             |
 
 ## Session Descriptions
 
