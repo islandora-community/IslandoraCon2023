@@ -89,7 +89,8 @@ Islandora has multiple options for installing a local development environment an
 #### <a name="25-2-1"/> Community Onboarding
 *Presenters: Yamil Suárez & Rebecca Power* <br>
 *Room: EV Room 140* <br>
-Just getting started with Islandora? Attend a community onboarding session where you can learn about the Foundation, governance model, and options for getting involved. See how Islandora uses Google Groups, GitHub and Slack to connect and collaborate. Users will learn about how the pieces of Islandora’s community come together, and be supported in joining and using Islandora’s communication channels. 
+Just getting started with Islandora? Attend a community onboarding session where you can learn about the Foundation, governance model, and options for getting involved. See how Islandora uses Google Groups, GitHub and Slack to connect and collaborate. Users will learn about how the pieces of Islandora’s community come together, and be supported in joining and using Islandora’s communication channels. <br>
+[View the slides here](https://docs.google.com/presentation/d/1wqmXqTlVyyDnk3cNsXYPlS81_0g_lBbI23IXbpw2hhU/edit?usp=sharing)
 
 #### <a name="25-2-2"/> Introduction to Islandora Workbench
 *Presenter: Mark Jordan* <br>
@@ -172,7 +173,8 @@ This panel presentation will provide an overview of the ways in which Islandora 
 <br>
 Presenters will provide examples of how modules, tools, documentation, and policies available to the Islandora community intersect with the levels of digital preservation and how they can be implemented in their own repository. Presenters will include preservation approaches that are in development or production in their own repositories along with examples from the community.
 <br>
-Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora.
+Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora. <br>
+[View the slides here](https://docs.google.com/presentation/d/1UxaotR59ceWvtcczpGpQ8DTgLbT9HWXsf9Fx_TwAlJ0/edit?usp=drive_link)
 
 #### <a name="27-4-3"/> Supporting Linked Data use-cases in the Digital Humanities
 *Room: Catalyst Centre* <br>
