@@ -150,17 +150,20 @@ Recently, the question of Fedora's role in Islandora has been raised by newcomer
 #### <a name="26-1-2"/> Islandora Migrate
 *Presenter: Will Panting* <br>
 *Room: Catalyst Centre* <br>
-discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will situate the toolset in a repeatable migration process that any team can adopt. The project lead will be discussing project pitfalls and how to avoid them. The presenter and other team members will be available to answer questions from others planning migrations that might benefit from the use of this tool.
+discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will situate the toolset in a repeatable migration process that any team can adopt. The project lead will be discussing project pitfalls and how to avoid them. The presenter and other team members will be available to answer questions from others planning migrations that might benefit from the use of this tool. <br>
+[View the slides here](https://docs.google.com/presentation/d/1cl8iEneLWJ6Dn4FH7TPJIAx2zBUbNQI-kgTG_Nwag0s/edit?usp=sharing)
 
 #### <a name="27-1"/> Integrating Mirador and Islandora: Bringing everything we know together
 *Presenter: Alexander O’Neill* <br>
 *Room: Catalyst Centre* <br>
-Several institutions have deployed Mirador with Islandora and made use of some of its various features. This presentation co-locates and reviews all of the knowledge required to integrate Mirador into Islandora and make full use of its plugins. This presentation reviews the steps from compiling and deploying the Mirador React app, to bringing it into Drupal, and its plugin architecture. Attendees will learn how to set up Solr and Islandora to power Mirador’s built-in search feature, bringing together multiple concurrent strands of community discussion and work. 
+Several institutions have deployed Mirador with Islandora and made use of some of its various features. This presentation co-locates and reviews all of the knowledge required to integrate Mirador into Islandora and make full use of its plugins. This presentation reviews the steps from compiling and deploying the Mirador React app, to bringing it into Drupal, and its plugin architecture. Attendees will learn how to set up Solr and Islandora to power Mirador’s built-in search feature, bringing together multiple concurrent strands of community discussion and work. <br>
+[View the slides here](https://drive.google.com/file/d/1Dan88jXflXpycoh5K4lp4Lw_QeMr2BIX/view?usp=sharing)
 
 #### <a name="27-2"/> Content Modeling for Derivatives using Islandora Paragraphs
 *Presenter: Will Panting* <br>
 *Room: Catalyst Centre* <br>
-The use of Drupal Paragraphs has the potential to substantially streamline and normalize the way we handle media derivative production in Islandora. Listen to the pitch and weigh in on whether or not this use case works for you!
+The use of Drupal Paragraphs has the potential to substantially streamline and normalize the way we handle media derivative production in Islandora. Listen to the pitch and weigh in on whether or not this use case works for you! <br>
+[View the slides here](https://docs.google.com/presentation/d/1QK8wbHWj2CdndXjy-DiATeJ2G8VigqmDddkt0sVMcCA/edit?usp=sharing)
 
 #### <a name="27-3-1"/> Strategies for Digital Preservation in Islandora
 *Panel Presenters: Donald Moses, Mark Jordan, Kirsta Stapelfeldt* <br>
