@@ -174,12 +174,13 @@ This panel presentation will provide an overview of the ways in which Islandora 
 Presenters will provide examples of how modules, tools, documentation, and policies available to the Islandora community intersect with the levels of digital preservation and how they can be implemented in their own repository. Presenters will include preservation approaches that are in development or production in their own repositories along with examples from the community.
 <br>
 Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora. <br>
-[View the slides here](https://docs.google.com/presentation/d/1UxaotR59ceWvtcczpGpQ8DTgLbT9HWXsf9Fx_TwAlJ0/edit?usp=drive_link)
+[View the slides here](https://docs.google.com/presentation/d/1m8AR_a_PH9lhggjGwrgnyywy3WIp9lttOEpBnEp0GP0/edit?usp=sharing)
 
 #### <a name="27-4-3"/> Supporting Linked Data use-cases in the Digital Humanities
 *Room: Catalyst Centre* <br>
 *Panel Presenters: Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan, Bennett Steinburg, Natkeeran Ledchumykanthan* <br>
-This panel discusses how Islandora can support the production of customized linked data for digital humanities use cases. 
+This panel discusses how Islandora can support the production of customized linked data for digital humanities use cases. <br>
+[View the slides here](https://docs.google.com/presentation/d/1QTtbX3cEt_Qp2KSpESYSl1Oyw9kQ4kPjpTNjgXJhKEo/edit?usp=sharing)
 
 #### <a name="Showcase"/> Service Provider Showcases
 *Room: Catalyst Centre* <br>
