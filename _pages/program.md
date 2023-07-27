@@ -177,8 +177,8 @@ Participants will have a digital take-away that maps the NSDA’s Levels of Digi
 [View the slides here](https://docs.google.com/presentation/d/1m8AR_a_PH9lhggjGwrgnyywy3WIp9lttOEpBnEp0GP0/edit?usp=sharing)
 
 #### <a name="27-4-2"/> Introduction to the Documentation Interest Group (DIG)
-*Presenter: Yamil Suárez*
-*Room: EV 140*
+*Presenter: Yamil Suárez* <br>
+*Room: EV 140* <br>
 [View the slides here](https://docs.google.com/presentation/d/1li6AAr-pDmpJyIHp775d2XRsSm_5spj0P6VcQh6z5Ao/edit?usp=sharing)
 
 #### <a name="27-4-3"/> Supporting Linked Data use-cases in the Digital Humanities
