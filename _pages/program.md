@@ -55,7 +55,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
 | 12:30 p.m. - 01:30 p.m. | **Stream one:** [Strategies for Digital Preservation in Islandora](#27-3-1) (Donald Moses, Mark Jordan, Kirsta Stapelfeldt) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) [Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing) <br> EV Room 140 *unrecorded* |
-| 01:30 p.m. - 02:30 p.m.  | **Stream one:** Introduction to the Documentation Interest Group (DIG) (Yamil Suárez) <br> EV Room 140 *unrecorded* <br><br> **Stream two:** [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan, Bennett Steinburg, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
+| 01:30 p.m. - 02:30 p.m.  | **Stream one:** [Introduction to the Documentation Interest Group (DIG)](#27-4-2) (Yamil Suárez) <br> EV Room 140 *unrecorded* <br><br> **Stream two:** [Supporting Linked Data use-cases in the Digital Humanities](#27-4-3) (Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan, Bennett Steinburg, Natkeeran Ledchumykanthan) <br> Catalyst Centre *recorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Service Provider Showcase](#Showcase) - discoverygarden inc <br> Catalyst Centre *unrecorded* |
 | 6:30-10:30 p.m. | Conference Dinner Offsite <br> Chúuk                        |
@@ -176,9 +176,14 @@ Presenters will provide examples of how modules, tools, documentation, and polic
 Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora. <br>
 [View the slides here](https://docs.google.com/presentation/d/1m8AR_a_PH9lhggjGwrgnyywy3WIp9lttOEpBnEp0GP0/edit?usp=sharing)
 
+#### <a name="27-4-2"/> Introduction to the Documentation Interest Group (DIG)
+*Presenter: Yamil Suárez*
+*Room: EV 140*
+[View the slides here](https://docs.google.com/presentation/d/1li6AAr-pDmpJyIHp775d2XRsSm_5spj0P6VcQh6z5Ao/edit?usp=sharing)
+
 #### <a name="27-4-3"/> Supporting Linked Data use-cases in the Digital Humanities
-*Room: Catalyst Centre* <br>
 *Panel Presenters: Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan, Bennett Steinburg, Natkeeran Ledchumykanthan* <br>
+*Room: Catalyst Centre* <br>
 This panel discusses how Islandora can support the production of customized linked data for digital humanities use cases. <br>
 [View the slides here](https://docs.google.com/presentation/d/1QTtbX3cEt_Qp2KSpESYSl1Oyw9kQ4kPjpTNjgXJhKEo/edit?usp=sharing)
 
