@@ -31,13 +31,13 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | 01:00 p.m. - 02:30 p.m. | **Stream one:** [Community Onboarding](#25-2-1) (Yamil Suárez, Rebecca Power) <br> EV Room 140 *unrecorded* <br><br> **Stream two:** [Introduction to Islandora Workbench](#25-2-2) (Mark Jordan) <br> Catalyst Centre *unrecorded* |
 | 02:30 p.m. - 03:00 p.m. | *Afternoon Break*                                   |
 | 03:00 p.m. - 04:00 p.m. | [Islandora Site and Features Demo](#Demos) <br> Catalyst Centre *recorded* |
-| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre *unrecorded* |
+| 04:00 p.m. - 05:00 p.m. | **Stream one:** [Options for a smaller Islandora](#25-3-1) (Cary Gordon) <br> EV Room 140 *recorded* <br><br> **Stream two:** [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre *unrecorded* |
 | 06:30 p.m. - 10:30 p.m. | Cocktail/Mixer <br> Ralph Campbell Lounge           |
 
 | Time            | Wednesday, July 26                                          |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
 | 10:30 a.m. - 12:00 p.m. | **Stream one:** [Islandora for Metadata Librarians](#26-1-1) (Chris Day) <br> Catalyst Centre *recorded* <br><br> **Stream two:** [Revisiting the Islandora-Fedora Integration (45 mins)](#26-3) (Seth Shaw) <br> EV Room 140 *recorded* |
 | 12:00 p.m. - 01:00 p.m. | *Lunch*                                             |
 | 01:00 p.m. - 02:30 p.m. | [Islandora Migrate](#26-1-2) (Will Panting) <br> Catalyst Centre *recorded* |
@@ -50,7 +50,7 @@ Note: All times listed below are Eastern, and sessions are provisional.
 | Time            | Thursday, July 27                                           |
 | --------------- | ----------------------------------------------------------- |
 | 08:30 a.m. - 09:30 a.m. | Registration Desk open & coffee/snacks              |
-| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) ([Propose a Project](https://docs.google.com/document/d/1NaGh3OelBOZfulcv2_dNWILjAeERs-a0p7V02ClmDQY/edit?usp=sharing)) <br> Catalyst Centre |
+| 09:30 a.m. - 10:30 a.m. | Welcome: [Use-a-Thon Projects](#Use-a-Thon) <br> Catalyst Centre |
 | 10:30 a.m. - 11:00 a.m. | [Integrating Mirador and Islandora: Bringing everything we know together ](#27-1) (Alexander O’Neill) <br> Catalyst Centre *unrecorded* |
 | 11:00 a.m. - 11:30 a.m. | [Content Modeling for Derivatives using Islandora Paragraphs](#27-2) (Will Panting) <br> Catalyst Centre *recorded* |
 | 11:30 a.m. - 12:30 p.m. | *Lunch*                                             |
@@ -134,7 +134,13 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
    1. Use-a-Thon projects will be introduced Tuesday, July 25, from 4:00-5:00 p.m. Additional scheduled times are: 
       1. **Wednesday, July 26** 9:30-10:30 a.m. & 5:30 p.m. (Use-a-Thon Pizza Party)
       1. **Thursday, July 27** 9:30-10:30 a.m. & 12:30-1:30 p.m.
-1. On Friday morning, representatives from each group are asked to present their outcomes. 
+1. On Friday morning, representatives from each group are asked to present their outcomes.
+
+**View the Slides here for the Use-a-Thon**
+* [Add More Lookups to the Linked Data Lookup Field](https://docs.google.com/presentation/d/1kaW0p8gA9SzQ3G6CSKee5As2FdMTXJzLOSaxMSAk2pY/edit?usp=sharing) by Donald Moses, Marcia Johnson, Chris Day
+* [ECA, a Replacement for Contexts?](https://docs.google.com/presentation/d/15dlwngAAHi9O4ohfiUve1w4b_wcyYN1TKV2hkvlxX8g/edit?usp=sharing) by Kyle Huynh, Seth Shaw, Brandon Weigel
+* [Research Improvements to Islandora Workbench Install Process](https://docs.google.com/presentation/d/1T0Zd-NFaj2jLrtc_axD9uOs3M7FRtU9IDcHuwXLOguc/edit?usp=sharing) by Cary Gordon, Eric Luhrs, Will Panting, Yamil Suárez
+* [UX Improvements and Wishlist for Islandora](https://docs.google.com/presentation/d/1kY6cEusSjH48XeuNYjI5mkjgFbSk4bnLK9lW_1ZuvoA/edit?usp=sharing) by Mihaela Ilovan, Bennet Steinburg, Lina Crowe, Tharschika Ramaneekaran
 
 #### <a name="26-1-1"/> Islandora for Metadata Librarians
 *Presenter: Chris Day* <br>
