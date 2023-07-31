@@ -13,7 +13,18 @@ header:
 
 ## IslandoraCon 2023
 
-IslandoraCon 2023 will take place at the University of Toronto Scarborough July 25-28 2023. 
+IslandoraCon 2023 is a wrap! Thank you to everyone who joined us at the University of Toronto Scarborough for 4 days of sessions, workshops, and networking filled with passion and creativity for open-source software. Slides and recordings from sessions will be uploaded in the coming weeks, linked from [the program](https://2023.islandora.ca/program/). Videos will also be uploaded to the [Islandora Foundation Youtube Channel](https://www.youtube.com/channel/UCCiQwdLWwrTNE6yToDKG3Uw).
+
+I would like to extend a big thank you to all our presenters, and our sponsors: [Born-Digital](https://www.born-digital.com/), [Discoverygarden](https://www.discoverygarden.ca/), [UPEI](https://www.upei.ca/), [UTSC](https://utsc.library.utoronto.ca/), and [Carnegie Mellon University Libraries](https://www.cmu.edu/). Thank you to all who participated in the Use-a-Thon, and of course our program committee: Amy Blau, Lina Crowe, Eric Luhrs, Kirsta Stapelfeldt, Marcus Barnes, and Rebecca Power. If you have pictures to share from IslandoraCon 2023, feel free to add them to [this public folder.](https://drive.google.com/drive/folders/1m2S01cYcOUclzcWT79aHfeoQg-BKdym-?usp=sharing) Please also share your feedback on the conference with us [here](https://forms.gle/b8SEX5Wxhgcp6LLt9).
+
+It was wonderful having this incredible opportunity to connect and share our work and ideas. I am looking forward to seeing everyone at the next one!
+
+Best,
+
+Kirsta Stapelfeldt \
+Head, Digital Scholarship Unit, University of Toronto Scarborough Library \
+IslandoraCon 2023 Program Chair \
+Islandora Foundation Board Secretary 
 
 All of our events follow our [code of conduct](https://www.islandora.ca/code-of-conduct).
 
@@ -25,8 +36,6 @@ All of our events follow our [code of conduct](https://www.islandora.ca/code-of-
 * Kirsta Stapelfeldt (University of Toronto Scarborough Library)
 * Marcus Barnes (University of Toronto) 
 * Rebecca Power (Islandora Foundation Intern)
-
-![islandoraWifi-July](https://github.com/islandora-community/IslandoraCon2023/assets/122306010/e236c508-7dd6-4a21-b8ea-41f2f49b51f7)
 
 You can see information on our previous conference IslandoraCon 2022, at the [archived conference website](https://2022.islandora.ca/).
 
