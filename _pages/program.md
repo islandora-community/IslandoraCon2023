@@ -209,3 +209,4 @@ This panel discusses how Islandora can support the production of customized link
 Listen to our community service providers as they demonstrate the range of projects and services they develop for the Islandora community. These presentations provide attendees with a strong sense of the range of available supports for institutions installing Islandora. <br>
 <br> **Resources**
 * [Slides for the Born-Digital Showcase](https://docs.google.com/presentation/d/1RtsDP_RS30eX434L5ZBxWdcqVfcc7MGlP6oLozuapKE/edit?usp=sharing)
+* [Slides for the discoverygarden Showcase](https://docs.google.com/presentation/d/17AlQmrxl0HpxXga8cdPSizJ53UAxW8BR1tr_ILGqonY/edit?usp=sharing)
