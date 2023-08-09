@@ -84,7 +84,7 @@ New to Islandora and/or looking for a refresher? Attendees at this workshop will
 #### <a name="25-1-2"/> Developing in Islandora and Deploying to Production
 *Presenters: Rosie LeFaive & Natkeeran Ledchumykanthan* <br>
 *Room: Catalyst Centre* <br>
-Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This site will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora.<br> 
+Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This session will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora.<br> 
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/18HJbb7lyrZtoLnAsGit69zAwZHv96pbKEMr0xBevzvY/edit?usp=sharing)
 
