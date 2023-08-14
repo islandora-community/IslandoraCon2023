@@ -126,6 +126,7 @@ If you are *not* going to be attending IslandoraCon but are willing to participa
 *Presenter: Cary Gordon* <br>
 *Room: EV Room 140* <br>
 I propose a breakout for public libraries, small institutions, vendors to the same, and their friends  to discuss current options. Since that landscape is changing as I type, I think that the agenda needs to be flexible, but anything in the realm of Islandora Lite or isle-site-template should be included.
+<br>
 <br> **Resources**
 * [Recording](https://youtu.be/qywcTz-YvC8)
 
