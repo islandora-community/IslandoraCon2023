@@ -87,6 +87,7 @@ New to Islandora and/or looking for a refresher? Attendees at this workshop will
 Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This session will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora.<br> 
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/18HJbb7lyrZtoLnAsGit69zAwZHv96pbKEMr0xBevzvY/edit?usp=sharing)
+* [Recording](https://youtu.be/gOtBqKH7vUE)
 
 #### <a name="25-2-1"/> Community Onboarding
 *Presenters: Yamil Suárez & Rebecca Power* <br>
@@ -106,8 +107,9 @@ Islandora Workbench is a popular tool for managing content in an Islandora 2 rep
 *Moderators: Marcus Barnes/Eric Luhrs* <br>
 *Room: Catalyst Centre* <br>
 This session is meant to be an informal look at the latest launches to inspire and build community. Whether you are attending IslandoraCon or not--there's a way you can participate! 
-<br>
-**Attendees:**
+<br> **Resources**
+* [Recording](https://youtu.be/5dZFAB55eQE)
+<br> **Attendees:**
 <br>
 If you are going to be attending IslandoraCon and are willing to do a very brief show-and-tell of your modern Islandora site, write [kirsta.stapelfeldt@utoronto.ca](mailto:kirsta.stapelfeldt@utoronto.ca) to be added to the ‘open mike’ list.
 <br>
@@ -122,6 +124,8 @@ If you are *not* going to be attending IslandoraCon but are willing to participa
 *Presenter: Cary Gordon* <br>
 *Room: EV Room 140* <br>
 I propose a breakout for public libraries, small institutions, vendors to the same, and their friends  to discuss current options. Since that landscape is changing as I type, I think that the agenda needs to be flexible, but anything in the realm of Islandora Lite or isle-site-template should be included.
+<br> **Resources**
+* [Recording](https://youtu.be/qywcTz-YvC8)
 
 #### <a name="Use-a-Thon"/> Use-a-Thon Projects
 **What is a Use-a-Thon?** <br>
@@ -151,6 +155,7 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022. <br>
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/1L8c7cN_rakWtytOWyRQKuUJ2x__H1M3IjQEoaX1b7IU/edit?usp=sharing)
+* [Recording](https://youtu.be/oWVf0t0zSsw)
 
 #### <a name="26-3"/> Revisiting the Islandora-Fedora Integration (45 mins)
 *Presenter: Seth Shaw* <br>
@@ -158,6 +163,7 @@ This presentation shows the systems, settings, and configurations available in I
 Recently, the question of Fedora's role in Islandora has been raised by newcomers to the community. This presentation will discuss Islandora's optional integration with Fedora as well as theoretical alternatives.<br>
 <br> **Resources**
 * [Slides](https://drive.google.com/file/d/1D_0Z1x-EwiNFj5a3hbNCUYYAN2-m6rVV/view?usp=sharing)
+* [Recording](https://youtu.be/qnMJ41twDFk)
 
 #### <a name="26-1-2"/> Islandora Migrate
 *Presenter: Will Panting* <br>
@@ -165,6 +171,7 @@ Recently, the question of Fedora's role in Islandora has been raised by newcomer
 discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will situate the toolset in a repeatable migration process that any team can adopt. The project lead will be discussing project pitfalls and how to avoid them. The presenter and other team members will be available to answer questions from others planning migrations that might benefit from the use of this tool. <br>
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/1cl8iEneLWJ6Dn4FH7TPJIAx2zBUbNQI-kgTG_Nwag0s/edit?usp=sharing)
+* [Recording](https://youtu.be/TYfgyxI-72I)
 
 #### <a name="27-1"/> Integrating Mirador and Islandora: Bringing everything we know together
 *Presenter: Alexander O’Neill* <br>
@@ -179,6 +186,7 @@ Several institutions have deployed Mirador with Islandora and made use of some o
 The use of Drupal Paragraphs has the potential to substantially streamline and normalize the way we handle media derivative production in Islandora. Listen to the pitch and weigh in on whether or not this use case works for you! <br>
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/1QK8wbHWj2CdndXjy-DiATeJ2G8VigqmDddkt0sVMcCA/edit?usp=sharing)
+* [Recording](https://youtu.be/YI_UWBzrsUA)
 
 #### <a name="27-3-1"/> Strategies for Digital Preservation in Islandora
 *Panel Presenters: Donald Moses, Mark Jordan, Kirsta Stapelfeldt* <br>
@@ -190,6 +198,7 @@ Presenters will provide examples of how modules, tools, documentation, and polic
 Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora. <br>
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/1m8AR_a_PH9lhggjGwrgnyywy3WIp9lttOEpBnEp0GP0/edit?usp=sharing)
+* [Recording](https://youtu.be/6KzV5KMtptE)
 
 #### <a name="27-4-2"/> Introduction to the Documentation Interest Group (DIG)
 *Presenter: Yamil Suárez* <br>
@@ -203,6 +212,7 @@ Participants will have a digital take-away that maps the NSDA’s Levels of Digi
 This panel discusses how Islandora can support the production of customized linked data for digital humanities use cases. <br>
 <br> **Resources**
 * [Slides](https://docs.google.com/presentation/d/1QTtbX3cEt_Qp2KSpESYSl1Oyw9kQ4kPjpTNjgXJhKEo/edit?usp=sharing)
+* [Recording](https://youtu.be/NYRfLJUOQ9A)
 
 #### <a name="Showcase"/> Service Provider Showcases
 *Room: Catalyst Centre* <br>
