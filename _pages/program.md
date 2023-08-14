@@ -107,9 +107,8 @@ Islandora Workbench is a popular tool for managing content in an Islandora 2 rep
 *Moderators: Marcus Barnes/Eric Luhrs* <br>
 *Room: Catalyst Centre* <br>
 This session is meant to be an informal look at the latest launches to inspire and build community. Whether you are attending IslandoraCon or not--there's a way you can participate! 
-<br> **Resources**
-* [Recording](https://youtu.be/5dZFAB55eQE)
-<br> **Attendees:**
+<br> 
+**Attendees:**
 <br>
 If you are going to be attending IslandoraCon and are willing to do a very brief show-and-tell of your modern Islandora site, write [kirsta.stapelfeldt@utoronto.ca](mailto:kirsta.stapelfeldt@utoronto.ca) to be added to the ‘open mike’ list.
 <br>
@@ -119,6 +118,9 @@ If you are *not* going to be attending IslandoraCon but are willing to participa
 1. Presenting live (we will call you into the session **currently scheduled for Tuesday, July 25 at 3p.m. EST)**
 <br>
 **Note:** This is intended to be a recorded session that will be released to the community on YouTube.
+<br>
+<br> **Resources**
+* [Recording](https://youtu.be/5dZFAB55eQE)
 
 #### <a name="25-3-1"/> Options for a smaller Islandora
 *Presenter: Cary Gordon* <br>
