@@ -79,14 +79,14 @@ New to Islandora and/or looking for a refresher? Attendees at this workshop will
 <br>
 **Note:** At Islandora Camp, some users had difficulties stemming from restrictions placed by their institutions on how they use their computers, as well as resource limitations (we recommend a minimum of 4GB that can be dedicated to the installation). To take full advantage, we recommend [installing the Portainer Demo](https://islandora.github.io/documentation/installation/install-a-demo/) prior to the session. For users that are not able to install locally, most of the workshop will be suitable for completing in the [Islandora Sandbox](https://sandbox.islandora.ca/). <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1YTxq5nLwFdcfHPSeJQj24ZH6MRk6Jfb5c2BgKVVvjuk/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1NYbBGY8qDTtob3-ysrvpVXIuPWsTJyExt0qVFzb_IGc/edit?usp=sharing)
 
 #### <a name="25-1-2"/> Developing in Islandora and Deploying to Production
 *Presenters: Rosie LeFaive & Natkeeran Ledchumykanthan* <br>
 *Room: Catalyst Centre* <br>
 Islandora has multiple options for installing a local development environment and deploying to production. Learn about your options, from ISLE to Ansible, and how Islandora can support your use cases. This session will focus on practical demos and advice for institutions maintaining Islandora and developers that seek to develop and customize Islandora.<br> 
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/18HJbb7lyrZtoLnAsGit69zAwZHv96pbKEMr0xBevzvY/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1-fXTgjS0IaDYeAqKOG33KL58MON4PNKF2KxWw4HwrUA/edit?usp=sharing)
 * [Recording](https://youtu.be/gOtBqKH7vUE)
 
 #### <a name="25-2-1"/> Community Onboarding
@@ -94,7 +94,7 @@ Islandora has multiple options for installing a local development environment an
 *Room: EV Room 140* <br>
 Just getting started with Islandora? Attend a community onboarding session where you can learn about the Foundation, governance model, and options for getting involved. See how Islandora uses Google Groups, GitHub and Slack to connect and collaborate. Users will learn about how the pieces of Islandora’s community come together, and be supported in joining and using Islandora’s communication channels. <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1wqmXqTlVyyDnk3cNsXYPlS81_0g_lBbI23IXbpw2hhU/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1gq-0zlCGjNgBSdejqX9h9nkD-bHheETqbpJ-xy9LroU/edit?usp=sharing)
 
 #### <a name="25-2-2"/> Introduction to Islandora Workbench
 *Presenter: Mark Jordan* <br>
@@ -147,17 +147,17 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 1. On Friday morning, representatives from each group are asked to present their outcomes.
 
 **View the Slides here for the Use-a-Thon**
-* [Add More Lookups to the Linked Data Lookup Field](https://docs.google.com/presentation/d/1kaW0p8gA9SzQ3G6CSKee5As2FdMTXJzLOSaxMSAk2pY/edit?usp=sharing) by Donald Moses, Marcia Johnson, Chris Day
-* [ECA, a Replacement for Contexts?](https://docs.google.com/presentation/d/15dlwngAAHi9O4ohfiUve1w4b_wcyYN1TKV2hkvlxX8g/edit?usp=sharing) by Kyle Huynh, Seth Shaw, Brandon Weigel
-* [Research Improvements to Islandora Workbench Install Process](https://docs.google.com/presentation/d/1T0Zd-NFaj2jLrtc_axD9uOs3M7FRtU9IDcHuwXLOguc/edit?usp=sharing) by Cary Gordon, Eric Luhrs, Will Panting, Yamil Suárez
-* [UX Improvements and Wishlist for Islandora](https://docs.google.com/presentation/d/1kY6cEusSjH48XeuNYjI5mkjgFbSk4bnLK9lW_1ZuvoA/edit?usp=sharing) by Mihaela Ilovan, Bennet Steinburg, Lina Crowe, Tharschika Ramaneekaran
+* [Add More Lookups to the Linked Data Lookup Field](https://docs.google.com/presentation/d/1YtqbDdVR-Xehc7YDDHvPNKdqtAyX0Sas4QavZmna4Hg/edit?usp=sharing) by Donald Moses, Marcia Johnson, Chris Day
+* [ECA, a Replacement for Contexts?](https://docs.google.com/presentation/d/1Buj2q_BCoxENaqgI_nZXLuPouXPV_DJto7iPuUXf9d0/edit?usp=sharing) by Kyle Huynh, Seth Shaw, Brandon Weigel
+* [Research Improvements to Islandora Workbench Install Process](https://docs.google.com/presentation/d/1JQ9ErfDaO66ZqbQmaVmBn9Lw_E0n4B788jcD0FvjlUI/edit?usp=sharing) by Cary Gordon, Eric Luhrs, Will Panting, Yamil Suárez
+* [UX Improvements and Wishlist for Islandora](https://docs.google.com/presentation/d/1FgR8Ou5wpKkx5HihaTpBcojxvK2c9_NSuovNPE6da5M/edit?usp=sharing) by Mihaela Ilovan, Bennet Steinburg, Lina Crowe, Tharschika Ramaneekaran
 
 #### <a name="26-1-1"/> Islandora for Metadata Librarians
 *Presenter: Chris Day* <br>
 *Room: Catalyst Centre* <br>
 This presentation shows the systems, settings, and configurations available in Islandora Modern as they would most apply to Metadata Librarians. This presentation begins with an overview of structural configuration, discusses issues related to migration, and ends with a review of ongoing collection maintenance. Focuses include Drupal Field Types, MODS to Starter Site transition, Bulk Views Editing, Metadata Creation & Ingest, and Indexing. This presentation is based on the work done by the Metadata Interest Group from 2022-2023, and expands on the work done at Islandora Camp in March 2022. <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1L8c7cN_rakWtytOWyRQKuUJ2x__H1M3IjQEoaX1b7IU/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1f2-XH8PLx81cK6wK4km9zhVEs_S_MFzpfjo7CDBVmx4/edit?usp=sharing)
 * [Recording](https://youtu.be/oWVf0t0zSsw)
 
 #### <a name="26-3"/> Revisiting the Islandora-Fedora Integration (45 mins)
@@ -165,7 +165,7 @@ This presentation shows the systems, settings, and configurations available in I
 *Room: EV Room 140* <br>
 Recently, the question of Fedora's role in Islandora has been raised by newcomers to the community. This presentation will discuss Islandora's optional integration with Fedora as well as theoretical alternatives.<br>
 <br> **Resources**
-* [Slides](https://drive.google.com/file/d/1D_0Z1x-EwiNFj5a3hbNCUYYAN2-m6rVV/view?usp=sharing)
+* [Slides](https://drive.google.com/file/d/10DVjazunSANDFj2Z9y2kGmiFRE5MZCts/view?usp=sharing)
 * [Recording](https://youtu.be/qnMJ41twDFk)
 
 #### <a name="26-1-2"/> Islandora Migrate
@@ -173,7 +173,7 @@ Recently, the question of Fedora's role in Islandora has been raised by newcomer
 *Room: Catalyst Centre* <br>
 discoverygarden inc. has recently released drush-based tools that support migration from Legacy to Modern Islandora. This session will situate the toolset in a repeatable migration process that any team can adopt. The project lead will be discussing project pitfalls and how to avoid them. The presenter and other team members will be available to answer questions from others planning migrations that might benefit from the use of this tool. <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1cl8iEneLWJ6Dn4FH7TPJIAx2zBUbNQI-kgTG_Nwag0s/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1komCTbZVZKdj9-CqJt4TkY_EzD_Nn1n2Weqr9_QAEpo/edit?usp=sharing)
 * [Recording](https://youtu.be/TYfgyxI-72I)
 
 #### <a name="27-1"/> Integrating Mirador and Islandora: Bringing everything we know together
@@ -181,14 +181,14 @@ discoverygarden inc. has recently released drush-based tools that support migrat
 *Room: Catalyst Centre* <br>
 Several institutions have deployed Mirador with Islandora and made use of some of its various features. This presentation co-locates and reviews all of the knowledge required to integrate Mirador into Islandora and make full use of its plugins. This presentation reviews the steps from compiling and deploying the Mirador React app, to bringing it into Drupal, and its plugin architecture. Attendees will learn how to set up Solr and Islandora to power Mirador’s built-in search feature, bringing together multiple concurrent strands of community discussion and work. <br>
 <br> **Resources**
-* [Slides](https://drive.google.com/file/d/1Dan88jXflXpycoh5K4lp4Lw_QeMr2BIX/view?usp=sharing)
+* [Slides](https://drive.google.com/file/d/1XJYANGYshsl8Luku0_dISwSSuXdESVI-/view?usp=sharing)
 
 #### <a name="27-2"/> Content Modeling for Derivatives using Islandora Paragraphs
 *Presenter: Will Panting* <br>
 *Room: Catalyst Centre* <br>
 The use of Drupal Paragraphs has the potential to substantially streamline and normalize the way we handle media derivative production in Islandora. Listen to the pitch and weigh in on whether or not this use case works for you! <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1QK8wbHWj2CdndXjy-DiATeJ2G8VigqmDddkt0sVMcCA/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/11fmxHuxnS1Rk52HXkLfH07bH6T2rzUJlys8In5WEQcE/edit?usp=sharing)
 * [Recording](https://youtu.be/YI_UWBzrsUA)
 
 #### <a name="27-3-1"/> Strategies for Digital Preservation in Islandora
@@ -200,26 +200,26 @@ Presenters will provide examples of how modules, tools, documentation, and polic
 <br>
 Participants will have a digital take-away that maps the NSDA’s Levels of Digital Preservation matrix with Islandora. <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1m8AR_a_PH9lhggjGwrgnyywy3WIp9lttOEpBnEp0GP0/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1cPpYLNP68x83BRPUSFquqeIlUOa1tZHmPl6eq3zmXls/edit?usp=sharing)
 * [Recording](https://youtu.be/6KzV5KMtptE)
 
 #### <a name="27-4-2"/> Introduction to the Documentation Interest Group (DIG)
 *Presenter: Yamil Suárez* <br>
 *Room: EV Room 140* <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1li6AAr-pDmpJyIHp775d2XRsSm_5spj0P6VcQh6z5Ao/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/19AEtKsIwMkMrwJys7v40mzggCzqfecaTbU2LvdCquE8/edit?usp=sharing)
 
 #### <a name="27-4-3"/> Supporting Linked Data use-cases in the Digital Humanities
 *Panel Presenters: Susan Brown, Kirsta Stapelfeldt, Natalie Rothman, Mihaela Ilovan, Bennett Steinburg, Natkeeran Ledchumykanthan* <br>
 *Room: Catalyst Centre* <br>
 This panel discusses how Islandora can support the production of customized linked data for digital humanities use cases. <br>
 <br> **Resources**
-* [Slides](https://docs.google.com/presentation/d/1QTtbX3cEt_Qp2KSpESYSl1Oyw9kQ4kPjpTNjgXJhKEo/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/17YB12gUpyxwUK44xgCcSw7aTt3IcHcsKJki_QoqswFI/edit?usp=sharing)
 * [Recording](https://youtu.be/NYRfLJUOQ9A)
 
 #### <a name="Showcase"/> Service Provider Showcases
 *Room: Catalyst Centre* <br>
 Listen to our community service providers as they demonstrate the range of projects and services they develop for the Islandora community. These presentations provide attendees with a strong sense of the range of available supports for institutions installing Islandora. <br>
 <br> **Resources**
-* [Slides for the Born-Digital Showcase](https://docs.google.com/presentation/d/1RtsDP_RS30eX434L5ZBxWdcqVfcc7MGlP6oLozuapKE/edit?usp=sharing)
+* [Slides for the Born-Digital Showcase](https://docs.google.com/presentation/d/1TMJVKF_iHwWRaE7j7wx76KlgV7tKI35Shn59Picu5yg/edit?usp=sharing)
 * [Slides for the discoverygarden Showcase](https://docs.google.com/presentation/d/17AlQmrxl0HpxXga8cdPSizJ53UAxW8BR1tr_ILGqonY/edit?usp=sharing)
